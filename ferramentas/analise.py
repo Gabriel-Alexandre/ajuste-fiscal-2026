@@ -66,20 +66,40 @@ def composicao(medidas: list[dict]) -> dict:
     return saida
 
 
-def variantes(comp: dict) -> list[dict]:
-    """As leituras alternativas que a revisão pediu, cada uma com o número."""
-    mn, mx = comp["pontas"]["minimo"], comp["pontas"]["maximo"]
+def variantes(comp: dict, b: dict) -> list[dict]:
+    """As leituras alternativas que a revisão adversarial pediu, cada uma com o número."""
+    mn, mx = comp["pontas"]["minimo"], comp["pontas"]["maximo"]; d = comp["de_cada_100"]
     imposto = mn["imposto_a_mais"]
+    pib = b["pib2027_ploa"]; nec = b["ajuste_necessario_pp_pib"] / 100 * pib
+    f = lambda x, c=1: f"{x:.{c}f}".replace(".", ",")
     return [
-        {"id": "V1", "leitura": "só conta como imposto o que aumenta tributo para sempre (benefícios e Reidi); a compensação vira 'adiantamento'",
-         "pct_imposto_min": mn["pct_imposto_a_mais"], "pct_imposto_max": mx["pct_imposto_a_mais"],
-         "efeito": "o imposto a mais cai para 35% a 43%; o gasto contido continua de 28% a 33%; o resto (28% a 33%) é dinheiro das empresas adiantado"},
-        {"id": "V2", "leitura": "o bloqueio é facultativo; se o governo não bloquear, a lei também não deixa limitar a compensação (art. 6º-F)",
-         "total": imposto, "pct_receita": 100.0,
-         "efeito": f"sobra só o imposto a mais, R$ {imposto:.1f} bilhões, e 100% do ajuste vira receita"},
-        {"id": "V3", "leitura": "o governo bloqueia o teto da faixa e a compensação vem no teto",
-         "pct_gasto": mx["pct_gasto"], "pct_receita": mx["pct_receita"],
-         "efeito": "é a ponta mais favorável ao lado do gasto, e o gasto contido não passa de um terço"},
+        {"id": "V2", "leitura": "2027 corre como o PLOA projeta: o resultado para a meta fica acima do centro, então o bloqueio do art. 6º-C não é acionado e a trava dos créditos (art. 6º-F) também não",
+         "total": imposto, "pct_receita": 100.0, "pct_pib": round(100 * imposto / pib, 2), "pct_do_necessario": r1(100 * imposto / nec),
+         "efeito": f"sobra só o benefício fiscal cortado, R$ {f(imposto)} bilhões ({f(100 * imposto / pib, 2)}% do PIB), e 100% do ajuste é receita"},
+        {"id": "V4", "leitura": "benefício fiscal cortado conta como corte de gasto tributário (o nome técnico do benefício é gasto tributário)",
+         "gasto_direto_mais_tributario": d["gasto_contido"] + d["imposto_a_mais"], "receita_antecipada": d["receita_antecipada"],
+         "efeito": f"de cada R$ 100, R$ {d['gasto_contido'] + d['imposto_a_mais']} viram corte (R$ {d['gasto_contido']} de despesa e R$ {d['imposto_a_mais']} de benefício) e R$ {d['receita_antecipada']} ficam como receita adiantada; para quem paga, o benefício cortado continua sendo tributo a mais"},
+        {"id": "V5", "leitura": "só conta o que fica: o bloqueio pode voltar no ano seguinte como investimento fora do teto (art. 12) e o crédito retido continua da empresa",
+         "total": imposto, "pct_pib": round(100 * imposto / pib, 2), "pct_do_necessario": r1(100 * imposto / nec),
+         "efeito": f"o que fica para sempre é o benefício fiscal cortado, R$ {f(imposto)} bilhões, {f(100 * imposto / nec)}% do ajuste que a IFI diz faltar"},
+    ]
+
+
+def cenarios(comp: dict, b: dict) -> list[dict]:
+    """Quando cada parte do ajuste é acionada, pela própria regra do texto."""
+    d = comp["de_cada_100"]; imposto = comp["pontas"]["minimo"]["imposto_a_mais"]
+    return [
+        {"id": "executivo", "nome": "a tabela do governo (o bloqueio é acionado)",
+         "condicao": "o resultado de 2027 fica abaixo do centro da meta",
+         "de_cada_100": [d["gasto_contido"], d["receita_antecipada"], d["imposto_a_mais"]],
+         "total_rs_bi": [comp["pontas"]["minimo"]["total"], comp["pontas"]["maximo"]["total"]]},
+        {"id": "ploa", "nome": "2027 como o PLOA projeta",
+         "condicao": f"resultado para a meta de R$ {b['ploa2027_resultado_para_meta']} bi, acima do centro de R$ {b['meta2027_centro_raf116']} bi: o art. 6º-C não se aplica",
+         "de_cada_100": [0, 0, 100], "total_rs_bi": [imposto, imposto]},
+        {"id": "ifi", "nome": "2027 como a IFI projeta",
+         "condicao": f"resultado para a meta de R$ {b['ifi2027_resultado_para_meta']:.1f} bi, abaixo do piso de R$ {b['meta2027_piso']:.1f} bi: o bloqueio de R$ {b['ifi2027_contingenciamento_necessario']:.1f} bi da Lei de Responsabilidade Fiscal já é obrigatório, e o teto da trava dos créditos soma esse bloqueio",
+         "de_cada_100": None, "total_rs_bi": None,
+         "nota": "a divisão não é calculável com o que foi publicado; a parte de receita adiantada pode passar dos R$ 18,3 bi da tabela"},
     ]
 
 
@@ -89,21 +109,37 @@ def buraco(comp: dict, b: dict, outras: dict, depois: dict) -> dict:
     pib = b["pib2027_ploa"]
     ajuste_nec = b["ajuste_necessario_pp_pib"] / 100 * pib
     aumento_obrig = r1(b["obrigatorias_2027"] - b["obrigatorias_2026"])
-    gap_ploa_ifi = r1(b["ploa2027_primario_efetivo"] - b["ifi2027_primario_efetivo"])
+    aumento_real = r1(b["obrigatorias_2027"] - b["obrigatorias_2026"] * (1 + b["ipca2027_ploa"] / 100))
+    gap_ploa_ifi = b["distancia_ploa_ifi_declarada"]  # a IFI soma os números sem arredondar
+    nec_ifi_pib = b["ajuste_necessario_pp_pib"] / 100 * b["pib2027_ifi"]
+    # mesma lógica da IFI (déficit potencial + primário que estabiliza), com o juro real de 6,1%
+    nec_juro61_pp = b["ifi2027_deficit_potencial_pib"] + b["primario_que_estabiliza_pib_juro61"]
+    nec_juro61 = nec_juro61_pp / 100 * pib
     diesel = outras["diesel_fora_da_meta_2026"]
     return {
         "ajuste_pct_pib": [round(100 * mn / pib, 2), round(100 * mx / pib, 2)],
         "ajuste_necessario_ifi_rs_bi": r1(ajuste_nec),
         "ajuste_cobre_do_necessario_pct": [r1(100 * mn / ajuste_nec), r1(100 * mx / ajuste_nec)],
+        "ajuste_necessario_ifi_pib_ifi_rs_bi": r1(nec_ifi_pib),
+        "ajuste_cobre_do_necessario_pib_ifi_pct": [r1(100 * mn / nec_ifi_pib), r1(100 * mx / nec_ifi_pib)],
+        "ajuste_necessario_juro61_pp_pib": r1(nec_juro61_pp),
+        "ajuste_cobre_do_necessario_juro61_pct": [r1(100 * mn / nec_juro61), r1(100 * mx / nec_juro61)],
         "aumento_obrigatorias_2027_rs_bi": aumento_obrig,
         "ajuste_sobre_aumento_obrigatorias_pct": [r1(100 * mn / aumento_obrig), r1(100 * mx / aumento_obrig)],
         "gasto_contido_sobre_aumento_obrigatorias_pct": [r1(100 * gmn / aumento_obrig), r1(100 * gmx / aumento_obrig)],
+        "aumento_real_obrigatorias_2027_rs_bi": aumento_real,
+        "obrigatorias_pct_pib": [b["obrigatorias_2026_pib"], b["obrigatorias_2027_pib"]],
+        "ajuste_sobre_aumento_real_obrigatorias_pct": [r1(100 * mn / aumento_real), r1(100 * mx / aumento_real)],
+        "gasto_contido_sobre_aumento_real_obrigatorias_pct": [r1(100 * gmn / aumento_real), r1(100 * gmx / aumento_real)],
         "promessas_nao_orcadas_rs_bi": b["promessas_nao_orcadas"],
         "promessas_sobre_ajuste_pct": [r1(100 * b["promessas_nao_orcadas"] / mx), r1(100 * b["promessas_nao_orcadas"] / mn)],
         "distancia_ploa_ifi_2027_rs_bi": gap_ploa_ifi,
         "ajuste_sobre_distancia_ploa_ifi_pct": [r1(100 * mn / gap_ploa_ifi), r1(100 * mx / gap_ploa_ifi)],
         "ifi_bloqueio_que_faltaria_2027_rs_bi": b["ifi2027_contingenciamento_necessario"],
         "meta2027_centro_rs_bi": b["meta2027_centro"],
+        "meta2027_piso_rs_bi": b["meta2027_piso"],
+        "ploa2027_resultado_para_meta_rs_bi": b["ploa2027_resultado_para_meta"],
+        "ifi2027_resultado_para_meta_rs_bi": b["ifi2027_resultado_para_meta"],
         "meta2027_centro_pct_pib": round(100 * b["meta2027_centro"] / pib, 2),
         "ploa2027_primario_efetivo_rs_bi": b["ploa2027_primario_efetivo"],
         "ifi2027_primario_efetivo_rs_bi": b["ifi2027_primario_efetivo"],
@@ -120,6 +156,8 @@ def buraco(comp: dict, b: dict, outras: dict, depois: dict) -> dict:
             "meta_piso_rs_bi": b["meta2026_piso"],
             "diesel_fora_da_meta_rs_bi": diesel,
             "diesel_sobre_deficit_antes_deducoes_pct": r1(100 * diesel / abs(b["primario2026_antes_deducoes"])),
+            "contingenciamento_rs_bi": b["contingenciamento2026"],
+            "diesel_sobre_contingenciamento_pct": r1(100 * diesel / b["contingenciamento2026"]),
             "deducoes_com_diesel_rs_bi": r1(b["deducoes2026"] + diesel),
             "diesel_sobre_ajuste_2027_pct": [r1(100 * diesel / mx), r1(100 * diesel / mn)],
         },
@@ -146,11 +184,13 @@ def main() -> None:
     resumo = {
         "gerado_por": "ferramentas/analise.py",
         "composicao_2027": comp,
-        "variantes": variantes(comp),
+        "variantes": variantes(comp, b),
+        "cenarios": cenarios(comp, b),
         "buraco": buraco(comp, b, outras, depois),
         "fora_da_tabela_de_impacto": {
             "kandir_teto_anual_rs_bi": outras["kandir_teto_anual"],
             "comprev_teto_anual_rs_bi": outras["comprev_teto_anual"],
+            "comprev_2027_sem_teto_rs_bi": next(float(l["antes"]) for l in tabela("depois_do_senado.csv") if l["chave"] == "comprev_2027_com_teto"),
             "proex_teto_rs_bi": outras["proex_teto_acima_da_execucao"],
             "medidas_que_abrem_espaco_para_promessas_rs_bi": depois["medidas_que_acomodam_promessas"],
             "supersalarios_estimativa_ministro_rs_bi": outras["supersalarios_estimativa_ministro"],

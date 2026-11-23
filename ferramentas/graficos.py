@@ -41,11 +41,11 @@ def rodape(fig, fonte: str) -> None:
 def g01(r: dict) -> None:
     c = r["composicao_2027"]; d = c["de_cada_100"]; mn = c["pontas"]["minimo"]; mx = c["pontas"]["maximo"]
     fig = figura("De cada R$ 100 do ajuste: corte ou imposto?",
-                 f"PLP 299/2026, impacto estimado para 2027: de R$ {br(mn['total'])} a R$ {br(mx['total'])} bilhões (meio da faixa)")
+                 f"Na tabela do governo, com o bloqueio acionado: de R$ {br(mn['total'])} a R$ {br(mx['total'])} bilhões em 2027 (meio da faixa)")
     ax = fig.add_axes([0.05, 0.36, 0.9, 0.3])
     partes = [("Gasto contido\n(bloqueio do Orçamento)", d["gasto_contido"], COR["gasto"]),
               ("Dinheiro das empresas adiantado\n(limite ao uso de créditos)", d["receita_antecipada"], COR["adiantado"]),
-              ("Imposto a mais\n(corte de benefícios e Reidi)", d["imposto_a_mais"], COR["imposto"])]
+              ("Benefício fiscal cortado\n(imposto a mais)", d["imposto_a_mais"], COR["imposto"])]
     x = 0
     for rotulo, v, cor in partes:
         ax.barh(0, v, left=x, color=cor, height=0.8, edgecolor="white", linewidth=4)
@@ -55,6 +55,8 @@ def g01(r: dict) -> None:
     ax.set_xlim(0, 100); ax.set_ylim(-1.6, 0.6); ax.axis("off")
     fig.text(0.05, 0.22, f"Receita (adiantada + imposto): R$ {d['receita_total']} de cada R$ 100.", fontsize=26, weight="bold", color=COR["texto"])
     fig.text(0.05, 0.165, f"Nas pontas da faixa, a receita vai de {br(mx['pct_receita'])}% a {br(mn['pct_receita'])}% do total.",
+             fontsize=22, color=COR["texto"])
+    fig.text(0.05, 0.12, f"Se 2027 correr como o PLOA prevê, o bloqueio não é acionado e sobram R$ {br(mn['imposto_a_mais'])} bi, todos de receita.",
              fontsize=22, color=COR["texto"])
     rodape(fig, "Parecer nº 221/2026-PLEN/SF (relator Eduardo Braga), com dados do Poder Executivo; nota técnica do DIAP (16/11/2026)")
     fig.savefig(FIG / "g01_de_cada_100.png", facecolor=COR["fundo"]); plt.close(fig)
@@ -67,6 +69,7 @@ def g02(r: dict) -> None:
              "beneficios": "Corte de benefícios fiscais\nde 10% para 20%",
              "reidi": "Teto para o benefício\ndo Reidi"}
     cores = {"gasto contido": COR["gasto"], "receita antecipada": COR["adiantado"], "imposto a mais": COR["imposto"]}
+    rotulo_nat = {"gasto contido": "gasto contido", "receita antecipada": "receita adiantada", "imposto a mais": "benefício fiscal cortado"}
     fig = figura("O ajuste, medida por medida", "Impacto estimado em 2027, em R$ bilhões (a barra clara é a faixa entre o mínimo e o máximo)")
     ax = fig.add_axes([0.3, 0.14, 0.62, 0.62])
     for i, m in enumerate(reversed(med)):
@@ -77,7 +80,7 @@ def g02(r: dict) -> None:
         txt = f"R$ {br(mn)}" + (f" a {br(mx)}" if mx > mn else "")
         ax.text(mx + 0.4, i, txt, va="center", fontsize=26, weight="bold", color=COR["texto"])
         ax.text(-0.6, i, nomes[m["medida"]], va="center", ha="right", fontsize=22, color=COR["texto"])
-        ax.text(mx + 0.4, i - 0.36, m["natureza"], va="center", fontsize=17, color=cor)
+        ax.text(mx + 0.4, i - 0.36, rotulo_nat[m["natureza"]], va="center", fontsize=17, color=cor)
     ax.set_xlim(0, 25); ax.set_yticks([]); ax.tick_params(axis="x", labelsize=18)
     rodape(fig, "Parecer nº 221/2026-PLEN/SF e Emenda nº 75 (substitutivo); classificação: parecer do relator na Câmara (PRLP 1, 19/11/2026)")
     fig.savefig(FIG / "g02_medida_por_medida.png", facecolor=COR["fundo"]); plt.close(fig)
@@ -142,10 +145,37 @@ def g05(r: dict) -> None:
     fig.savefig(FIG / "g05_votacoes_senado.png", facecolor=COR["fundo"]); plt.close(fig)
 
 
+def g06(r: dict) -> None:
+    c = r["composicao_2027"]; m = c["meio_da_faixa"]; b = r["buraco"]
+    fig = figura("O ajuste depende de como 2027 vai andar",
+                 "Em R$ bilhões, no meio da faixa. O bloqueio e a trava dos créditos só valem abaixo do centro da meta")
+    ax = fig.add_axes([0.36, 0.16, 0.58, 0.56])
+    rot_ploa = ("Se 2027 correr como o PLOA prevê" + chr(10) + f"(R$ {br(b['ploa2027_resultado_para_meta_rs_bi'])} bi, acima do centro"
+                + chr(10) + f"de R$ {br(b['meta2027_centro_rs_bi'])} bi)")
+    linhas = [("Tabela do governo" + chr(10) + "(o bloqueio é acionado)", m["gasto_contido"], m["receita_antecipada"], m["imposto_a_mais"]),
+              (rot_ploa, 0, 0, m["imposto_a_mais"])]
+    for i, (rot, g, a, im) in enumerate(reversed(linhas)):
+        x = 0
+        for v, cor in ((g, COR["gasto"]), (a, COR["adiantado"]), (im, COR["imposto"])):
+            if v:
+                ax.barh(i, v, left=x, color=cor, height=0.55, edgecolor="white", linewidth=3)
+                ax.text(x + v / 2, i, br(v), ha="center", va="center", color="white", fontsize=26, weight="bold")
+            x += v
+        total = m["total"] if g else im  # o total do meio da faixa, não a soma das partes arredondadas
+        ax.text(x + 0.8, i, f"R$ {br(total)}", va="center", fontsize=28, weight="bold")
+        ax.text(-1.5, i, rot, ha="right", va="center", fontsize=20)
+    ax.set_xlim(0, 60); ax.set_yticks([]); ax.tick_params(axis="x", labelsize=18)
+    fig.text(0.36, 0.76, "■ gasto contido", color=COR["gasto"], fontsize=22, weight="bold")
+    fig.text(0.53, 0.76, "■ receita adiantada", color=COR["adiantado"], fontsize=22, weight="bold")
+    fig.text(0.74, 0.76, "■ benefício fiscal cortado", color=COR["imposto"], fontsize=22, weight="bold")
+    rodape(fig, "Parecer nº 221/2026; arts. 6º-C e 6º-F da redação final; PLOA 2027 pela tabela 8 do RAF nº 116 da IFI")
+    fig.savefig(FIG / "g06_cenarios_2027.png", facecolor=COR["fundo"]); plt.close(fig)
+
+
 def main() -> None:
     FIG.mkdir(parents=True, exist_ok=True)
     r = json.loads((RAIZ / "resultados" / "RESUMO.json").read_text(encoding="utf-8"))
-    for g in (g01, g02, g03, g04, g05):
+    for g in (g01, g02, g03, g04, g05, g06):
         g(r)
     print("figuras:", sorted(p.name for p in FIG.glob("*.png")))
 

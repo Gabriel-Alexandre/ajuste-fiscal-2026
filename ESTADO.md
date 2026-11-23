@@ -1,10 +1,10 @@
 # ESTADO: onde o trabalho parou
 
-**Atualizado em:** 23/11/2026, rodada 1.
+**Atualizado em:** 23/11/2026, rodada 2.
 
 ## Em uma frase
 
-Rodada 1 feita: as fontes primárias coletadas com hash, a tabela de impacto do Parecer 221 separada por natureza (de cada R$ 100: R$ 31 de gasto contido, R$ 31 de receita adiantada, R$ 38 de imposto a mais), o tamanho do buraco pela IFI (o ajuste cobre de 10,2% a 12,6% do que falta), o diesel fora da meta de 2026, as 6 votações do Senado contadas nome a nome, a validação por outro caminho (33 de 33) e 5 gráficos.
+Rodada 1 feita: as fontes primárias coletadas com hash, a tabela de impacto do Parecer 221 separada por natureza (de cada R$ 100: R$ 31 de gasto contido, R$ 31 de receita adiantada, R$ 38 de imposto a mais), o tamanho do buraco pela IFI (o ajuste cobre de 10,2% a 12,6% do que falta), o diesel fora da meta de 2026, as 6 votações do Senado contadas nome a nome, a validação por outro caminho (33 de 33) e 5 gráficos. A **rodada 2** aplicou a revisão adversarial: a divisão 31, 31 e 38 vale no cenário em que o bloqueio é acionado; se 2027 correr como o PLOA projeta (acima do centro da meta), sobra só o benefício fiscal cortado, R$ 19,5 bilhões, 100% receita; e o bloqueio pode voltar no ano seguinte como investimento (art. 12). Gráfico novo: `g06_cenarios_2027.png`.
 
 ## O que fica para uma próxima rodada
 

@@ -79,25 +79,66 @@
  },
  "variantes": [
   {
-   "id": "V1",
-   "leitura": "só conta como imposto o que aumenta tributo para sempre (benefícios e Reidi); a compensação vira 'adiantamento'",
-   "pct_imposto_min": 43.2,
-   "pct_imposto_max": 34.8,
-   "efeito": "o imposto a mais cai para 35% a 43%; o gasto contido continua de 28% a 33%; o resto (28% a 33%) é dinheiro das empresas adiantado"
-  },
-  {
    "id": "V2",
-   "leitura": "o bloqueio é facultativo; se o governo não bloquear, a lei também não deixa limitar a compensação (art. 6º-F)",
+   "leitura": "2027 corre como o PLOA projeta: o resultado para a meta fica acima do centro, então o bloqueio do art. 6º-C não é acionado e a trava dos créditos (art. 6º-F) também não",
    "total": 19.5,
    "pct_receita": 100.0,
-   "efeito": "sobra só o imposto a mais, R$ 19.5 bilhões, e 100% do ajuste vira receita"
+   "pct_pib": 0.13,
+   "pct_do_necessario": 4.4,
+   "efeito": "sobra só o benefício fiscal cortado, R$ 19,5 bilhões (0,13% do PIB), e 100% do ajuste é receita"
   },
   {
-   "id": "V3",
-   "leitura": "o governo bloqueia o teto da faixa e a compensação vem no teto",
-   "pct_gasto": 32.6,
-   "pct_receita": 67.4,
-   "efeito": "é a ponta mais favorável ao lado do gasto, e o gasto contido não passa de um terço"
+   "id": "V4",
+   "leitura": "benefício fiscal cortado conta como corte de gasto tributário (o nome técnico do benefício é gasto tributário)",
+   "gasto_direto_mais_tributario": 69,
+   "receita_antecipada": 31,
+   "efeito": "de cada R$ 100, R$ 69 viram corte (R$ 31 de despesa e R$ 38 de benefício) e R$ 31 ficam como receita adiantada; para quem paga, o benefício cortado continua sendo tributo a mais"
+  },
+  {
+   "id": "V5",
+   "leitura": "só conta o que fica: o bloqueio pode voltar no ano seguinte como investimento fora do teto (art. 12) e o crédito retido continua da empresa",
+   "total": 19.5,
+   "pct_pib": 0.13,
+   "pct_do_necessario": 4.4,
+   "efeito": "o que fica para sempre é o benefício fiscal cortado, R$ 19,5 bilhões, 4,4% do ajuste que a IFI diz faltar"
+  }
+ ],
+ "cenarios": [
+  {
+   "id": "executivo",
+   "nome": "a tabela do governo (o bloqueio é acionado)",
+   "condicao": "o resultado de 2027 fica abaixo do centro da meta",
+   "de_cada_100": [
+    31,
+    31,
+    38
+   ],
+   "total_rs_bi": [
+    45.1,
+    56.1
+   ]
+  },
+  {
+   "id": "ploa",
+   "nome": "2027 como o PLOA projeta",
+   "condicao": "resultado para a meta de R$ 83.4 bi, acima do centro de R$ 73.2 bi: o art. 6º-C não se aplica",
+   "de_cada_100": [
+    0,
+    0,
+    100
+   ],
+   "total_rs_bi": [
+    19.5,
+    19.5
+   ]
+  },
+  {
+   "id": "ifi",
+   "nome": "2027 como a IFI projeta",
+   "condicao": "resultado para a meta de R$ 0.9 bi, abaixo do piso de R$ 36.6 bi: o bloqueio de R$ 35.7 bi da Lei de Responsabilidade Fiscal já é obrigatório, e o teto da trava dos créditos soma esse bloqueio",
+   "de_cada_100": null,
+   "total_rs_bi": null,
+   "nota": "a divisão não é calculável com o que foi publicado; a parte de receita adiantada pode passar dos R$ 18,3 bi da tabela"
   }
  ],
  "buraco": {
@@ -110,6 +151,16 @@
    10.2,
    12.6
   ],
+  "ajuste_necessario_ifi_pib_ifi_rs_bi": 436.0,
+  "ajuste_cobre_do_necessario_pib_ifi_pct": [
+   10.3,
+   12.9
+  ],
+  "ajuste_necessario_juro61_pp_pib": 3.9,
+  "ajuste_cobre_do_necessario_juro61_pct": [
+   7.8,
+   9.7
+  ],
   "aumento_obrigatorias_2027_rs_bi": 131.4,
   "ajuste_sobre_aumento_obrigatorias_pct": [
    34.3,
@@ -119,18 +170,34 @@
    9.7,
    13.9
   ],
+  "aumento_real_obrigatorias_2027_rs_bi": 53.2,
+  "obrigatorias_pct_pib": [
+   15.9,
+   15.6
+  ],
+  "ajuste_sobre_aumento_real_obrigatorias_pct": [
+   84.8,
+   105.5
+  ],
+  "gasto_contido_sobre_aumento_real_obrigatorias_pct": [
+   24.1,
+   34.4
+  ],
   "promessas_nao_orcadas_rs_bi": 40.0,
   "promessas_sobre_ajuste_pct": [
    71.3,
    88.7
   ],
-  "distancia_ploa_ifi_2027_rs_bi": 104.7,
+  "distancia_ploa_ifi_2027_rs_bi": 104.8,
   "ajuste_sobre_distancia_ploa_ifi_pct": [
-   43.1,
-   53.6
+   43.0,
+   53.5
   ],
   "ifi_bloqueio_que_faltaria_2027_rs_bi": 35.7,
   "meta2027_centro_rs_bi": 73.2,
+  "meta2027_piso_rs_bi": 36.6,
+  "ploa2027_resultado_para_meta_rs_bi": 83.4,
+  "ifi2027_resultado_para_meta_rs_bi": 0.9,
   "meta2027_centro_pct_pib": 0.5,
   "ploa2027_primario_efetivo_rs_bi": 18.6,
   "ifi2027_primario_efetivo_rs_bi": -86.1,
@@ -153,6 +220,8 @@
    "meta_piso_rs_bi": 0.0,
    "diesel_fora_da_meta_rs_bi": 10.5,
    "diesel_sobre_deficit_antes_deducoes_pct": 13.0,
+   "contingenciamento_rs_bi": 13.6,
+   "diesel_sobre_contingenciamento_pct": 77.2,
    "deducoes_com_diesel_rs_bi": 77.8,
    "diesel_sobre_ajuste_2027_pct": [
     18.7,
@@ -163,6 +232,7 @@
  "fora_da_tabela_de_impacto": {
   "kandir_teto_anual_rs_bi": 2.0,
   "comprev_teto_anual_rs_bi": 3.0,
+  "comprev_2027_sem_teto_rs_bi": 8.3,
   "proex_teto_rs_bi": 1.0,
   "medidas_que_abrem_espaco_para_promessas_rs_bi": 10.0,
   "supersalarios_estimativa_ministro_rs_bi": 3.0
