@@ -1,0 +1,202 @@
+{
+ "agazeta-camara-23-11": {
+  "arquivo": "dados/capturas/agazeta-camara-23-11.txt",
+  "url": "https://www.agazeta.com.br/brasil/camara-comeca-a-votar-plano-moretti-em-sessao-extraordinaria-nesta-segunda-23-1126",
+  "titulo": "Câmara começa a votar plano Moretti em sessão extraordinária nesta segunda (23)",
+  "data_pagina": "2026-11-23T12:37:33Z",
+  "capturado_em": "2026-11-23T11:27:47-03:00",
+  "sha256": "240d3fd5e2cc98d39b8a073ef8690d0e7c4d52ae5dc290ccba83757b55930285"
+ },
+ "agencia-camara-moretti": {
+  "arquivo": "dados/capturas/agencia-camara-moretti.txt",
+  "url": "https://www.camara.leg.br/noticias/1318603-ministro-do-planejamento-anuncia-novas-medidas-de-ajuste-fiscal-para-2027",
+  "titulo": "Ministro do Planejamento anuncia novas medidas de ajuste fiscal para 2027 - Portal da Câmara dos Deputados",
+  "data_pagina": "None",
+  "capturado_em": "2026-11-23T11:33:27-03:00",
+  "sha256": "98c40d229f99dd6f37c0a91caa5e25e43632707e81504f75b3dfc117994c63f7"
+ },
+ "agencia-senado-cmo-moretti": {
+  "arquivo": "dados/capturas/agencia-senado-cmo-moretti.txt",
+  "url": "https://www12.senado.leg.br/noticias/materias/2026/11/11/ministro-do-planejamento-anuncia-na-cmo-ajuste-fiscal-de-r-60-bi-em-2027",
+  "titulo": "Ministro do Planejamento anuncia na CMO ajuste fiscal de R$ 60 bi em 2027 — Senado Notícias",
+  "data_pagina": "2026-11-11T19:18:49-03:00",
+  "capturado_em": "2026-11-23T11:33:11-03:00",
+  "sha256": "d171f0f7a4d260db0300d86f450fb51c84b8f52301186c99a2032624714b3a7d"
+ },
+ "agencia-senado-texto-base": {
+  "arquivo": "dados/capturas/agencia-senado-texto-base.txt",
+  "url": "https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado",
+  "titulo": "Texto principal do ajuste fiscal é aprovado pelo Senado — Senado Notícias",
+  "data_pagina": "2026-11-12T21:35:36-03:00",
+  "capturado_em": "2026-11-23T11:25:01-03:00",
+  "sha256": "986a8431e616b284cb456067062abb4b78307574a41df6fd27ce7a9edf8b1d5b"
+ },
+ "agenciabrasil-4bim-2026": {
+  "arquivo": "dados/capturas/agenciabrasil-4bim-2026.txt",
+  "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-09/contencao-no-orcamento-e-reduzida-de-r-179-bi-para-r-161-bi",
+  "titulo": "Contenção no Orçamento é reduzida de R$ 17,9 bi para R$ 16,1 bi | Agência Brasil",
+  "data_pagina": "2026-09-24T16:13:00-03:00",
+  "capturado_em": "2026-11-23T11:33:45-03:00",
+  "sha256": "863e94ea34db34fa2f85056c4492357addc57687263476ba6929e6031f41d0cd"
+ },
+ "atlas-conclusao": {
+  "arquivo": "dados/capturas/atlas-conclusao.txt",
+  "url": "https://atlaspublico.com.br/senado/noticias/senado-vota-emendas-ao-plp-299-2026-do-ajuste-fiscal-em-103692",
+  "titulo": "Senado conclui votação do PLP 299/2026, pacote de ajuste fiscal que altera o arcabouço, e envia texto à Câmara — Atlas Público",
+  "data_pagina": "2026-11-18T22:43:48Z",
+  "capturado_em": "2026-11-23T11:25:19-03:00",
+  "sha256": "40925df1b19ab2e76bf984fe48bcdfdf5a2dd91aeed595b3c1760e059e62d7b7"
+ },
+ "atlas-emenda-marinho": {
+  "arquivo": "dados/capturas/atlas-emenda-marinho.txt",
+  "url": "https://atlaspublico.com.br/senado/noticias/senado-rejeita-por-47-a-30-emenda-de-rogerio-marinho-ao-plp-103666",
+  "titulo": "Senado rejeita por 47 a 30 emenda de Rogério Marinho ao PLP 299/2026, projeto de ajuste fiscal — Atlas Público",
+  "data_pagina": "2026-11-18T21:05:47Z",
+  "capturado_em": "2026-11-23T11:33:48-03:00",
+  "sha256": "7012b1b87efeff9b2a5ef4436d695b9964621b81b4496423a07147f1db3198ea"
+ },
+ "bmc-ploa-2027": {
+  "arquivo": "dados/capturas/bmc-ploa-2027.txt",
+  "url": "https://bmcnews.com.br/economia/orcamento-2027-meta-fiscal-superavit-efetivo/",
+  "titulo": "Meta fiscal de 2027 é de R$ 73 bi, mas superávit efetivo será menor; entenda o que muda",
+  "data_pagina": "2026-08-31T14:52:36+00:00",
+  "capturado_em": "2026-11-23T11:34:27-03:00",
+  "sha256": "8b4e8b2f90b36e4d954b8b22084469be74228238c7a6740c0a71ade40ab6b11e"
+ },
+ "cenariomt-o-que-muda": {
+  "arquivo": "dados/capturas/cenariomt-o-que-muda.txt",
+  "url": "https://cenariomt.com.br/cenario-politico/deputados-votam-pacote-que-corta-incentivos-e-tira-r-105-bi-do-diesel-da-meta/",
+  "titulo": "Ajuste fiscal na Câmara: veja o que muda com o PLP 299",
+  "data_pagina": "2026-11-23T06:38:44-04:00",
+  "capturado_em": "2026-11-23T11:28:06-03:00",
+  "sha256": "e5932d652a781c72363e1f98c12ffafca12413b25be102d74d18bdbfc1889def"
+ },
+ "constantino-brinquedo": {
+  "arquivo": "dados/capturas/constantino-brinquedo.txt",
+  "url": "https://www.gazetadopovo.com.br/rodrigo-constantino/a-esquerda-em-guerra-por-um-ajuste-fiscal-de-brinquedo/",
+  "titulo": "A esquerda em guerra por um ajuste fiscal de brinquedo",
+  "data_pagina": "2026-11-16T13:52:20.000Z",
+  "capturado_em": "2026-11-23T11:30:56-03:00",
+  "sha256": "f0e88916c097d2c4f4f7254f728c58e084969a991e19257826ef9a5ff84ea81f"
+ },
+ "diariope-urgencia": {
+  "arquivo": "dados/capturas/diariope-urgencia.txt",
+  "url": "https://www.diariodepernambuco.com.br/politica/2026/11/11729730-camara-vota-urgencia-para-ajuste-fiscal-e-pode-aprovar-merito.html",
+  "titulo": "Câmara vota urgência para ajuste fiscal e pode aprovar mérito | Diario de Pernambuco - Conectando gerações desde 1825",
+  "data_pagina": "2026-11-23",
+  "capturado_em": "2026-11-23T11:34:46-03:00",
+  "sha256": "2898e78056e6dbb45e4b0e4aec3048854e73aa882bf7c057bce9a159bb57fdb6"
+ },
+ "folhape-divida-829": {
+  "arquivo": "dados/capturas/folhape-divida-829.txt",
+  "url": "https://www.folhape.com.br/economia/divida-publica-fica-em-829-do-pib-e-deficit-soma-r-55-bilhoes/521414/",
+  "titulo": "Dívida pública fica em 82,9% do PIB, e déficit soma R$ 5,5 bilhões - Folha PE",
+  "data_pagina": "2026-10-29T17:41:00-03:00",
+  "capturado_em": "2026-11-23T11:34:25-03:00",
+  "sha256": "b2a6d4237f36cf50a09fea9a782e50321862fc7d2e42079718469ee3bcefb7d4"
+ },
+ "folhape-tesouro-setembro": {
+  "arquivo": "dados/capturas/folhape-tesouro-setembro.txt",
+  "url": "https://www.folhape.com.br/economia/governo-registra-superavit-de-r-48-bilhoes-em-setembro-aponta/521285/",
+  "titulo": "Governo registra superávit de R$ 4,8 bilhões em setembro, aponta Tesouro Nacional - Folha PE",
+  "data_pagina": "2026-10-29T10:34:00-03:00",
+  "capturado_em": "2026-11-23T11:34:44-03:00",
+  "sha256": "9301907c6f17a14b537d352e88b2a99a62c944260348ca7323a1afabcf25c528"
+ },
+ "forbes-destaques": {
+  "arquivo": "dados/capturas/forbes-destaques.txt",
+  "url": "https://forbes.com.br/forbes-money/2026/11/destaques-ajuste-fiscal-senado/",
+  "titulo": "Entenda os Destaques do Ajuste Fiscal Que o Senado Vota Hoje",
+  "data_pagina": "2026-11-17T05:00:00-03:00",
+  "capturado_em": "2026-11-23T11:34:07-03:00",
+  "sha256": "b03aaa56bde8782f6d803c98c545e468e4cb3b27ebd823be7dcc1e3284f7d11f"
+ },
+ "forum-mau-humor": {
+  "arquivo": "dados/capturas/forum-mau-humor.txt",
+  "url": "https://revistaforum.com.br/politica/ajuste-fiscal-vai-a-votacao-na-camara-mesmo-com-mau-humor-do-mercado-e-da-oposicao",
+  "titulo": "Ajuste fiscal vai à votação na Câmara mesmo com \"mau humor\" do mercado e da oposição",
+  "data_pagina": "2026-11-23T05:48:09-03:00",
+  "capturado_em": "2026-11-23T11:28:24-03:00",
+  "sha256": "7657d4b56779075a5a54a7dfe5584ac5e47e9bc251b6b7b5185e26d873a4d1d3"
+ },
+ "gazeta-tributaco": {
+  "arquivo": "dados/capturas/gazeta-tributaco.txt",
+  "url": "https://www.gazetadopovo.com.br/economia/lula-ajuste-fiscal-tributaco-aumento-impostos/",
+  "titulo": "Ajuste fiscal de Lula aumentará impostos em vez de cortar gastos",
+  "data_pagina": "2026-11-18T14:39:34.000Z",
+  "capturado_em": "2026-11-23T11:30:20-03:00",
+  "sha256": "c09b8429c9b30714c8b0863b2a53e80860de8c5d1f2555fc141adc010ffcb3ff"
+ },
+ "infomoney-ifi-raf": {
+  "arquivo": "dados/capturas/infomoney-ifi-raf.txt",
+  "url": "https://www.infomoney.com.br/economia/ifi-projeta-alta-deficit-primario-2026-gastos-extra-orcamento/",
+  "titulo": "IFI: Fim das Bets, pacote MEI e Bolsa Família somam R$ 40 bi ao desequilíbrio fiscal",
+  "data_pagina": "2026-10-29T14:01:24+00:00",
+  "capturado_em": "2026-11-23T11:29:00-03:00",
+  "sha256": "040f9bfe3d20ad28a9f789064baf7795a4b02620b3690a74adae8c4c30448ddf"
+ },
+ "investnews-medidas": {
+  "arquivo": "dados/capturas/investnews-medidas.txt",
+  "url": "https://investnews.com.br/economia/ajuste-fiscal-entenda-as-medidas-propostas-pelo-governo-lula/",
+  "titulo": "Plano Moretti: entenda as medidas de ajuste fiscal de até R$ 60 bilhões propostas pelo governo Lula",
+  "data_pagina": "2026-11-12T11:55:15-03:00",
+  "capturado_em": "2026-11-23T11:23:19-03:00",
+  "sha256": "49aa9290c4baadc17d65c4c1df3a69b7f689590fa4772c50278be0d89e448806"
+ },
+ "jc-rejeita-tres-mudancas": {
+  "arquivo": "dados/capturas/jc-rejeita-tres-mudancas.txt",
+  "url": "https://www.jornaldocomercio.com/economia/2026/11/1271094-senado-rejeita-tres-mudancas-e-mantem-ponto-criticado-por-empresas-no-plano-moretti.html",
+  "titulo": "Senado rejeita três mudanças e mantém ponto criticado por empresas no 'plano Moretti' | Jornal do Comércio",
+  "data_pagina": "2026-11-18",
+  "capturado_em": "2026-11-23T11:32:18-03:00",
+  "sha256": "cb3d78b4f9b46205d472760e04c84ba1307896cca535506d80d1805936d442e2"
+ },
+ "jgb-ifi-divida": {
+  "arquivo": "dados/capturas/jgb-ifi-divida.txt",
+  "url": "https://jornalgrandebahia.com.br/2026/11/ifi-ve-816-de-risco-de-divida-superar-90-do-pib-ate-2030-e-alerta-para-r-1805-bilhoes-em-saida-liquida-com-credito-fora-da-meta/",
+  "titulo": "IFI vê 81,6% de risco de dívida superar 90% do PIB até 2030 e alerta para R$ 180,5 bilhões em saída líquida com crédito fora da meta - Jornal Grande Bahia (JGB)",
+  "data_pagina": "2026-11-02T08:00:10+00:00",
+  "capturado_em": "2026-11-23T11:29:21-03:00",
+  "sha256": "08908bb70888b7c199abf91c49143f33290761f78a322ca93a54c58f10029c43"
+ },
+ "jota-segue-camara": {
+  "arquivo": "dados/capturas/jota-segue-camara.txt",
+  "url": "https://www.jota.info/legislativo/apos-mudancas-do-senado-plp-do-pacote-fiscal-segue-para-analise-da-camara",
+  "titulo": "Após mudanças do Senado, PLP do pacote fiscal segue para análise da Câmara",
+  "data_pagina": "2026-11-18T20:18:47-03:00",
+  "capturado_em": "2026-11-23T11:23:00-03:00",
+  "sha256": "b9d0df4a8d7aac96a26de5651fff00c4d20fd7851bca78bf57f9b08112734e8e"
+ },
+ "jota-texto-base": {
+  "arquivo": "dados/capturas/jota-texto-base.txt",
+  "url": "https://www.jota.info/legislativo/senado-aprova-texto-base-do-pacote-fiscal-com-impacto-previsto-de-ate-r-56-bi",
+  "titulo": "Senado aprova texto-base do pacote fiscal com impacto previsto de até R$ 56 bi",
+  "data_pagina": "2026-11-12T22:24:34-03:00",
+  "capturado_em": "2026-11-23T11:22:42-03:00",
+  "sha256": "7f931ece023c93fa3e99106b3ef3d24cc8714164b094c177dde08de521adcb32"
+ },
+ "metropoles-ploa-2027": {
+  "arquivo": "dados/capturas/metropoles-ploa-2027.txt",
+  "url": "https://www.metropoles.com/brasil/governo-espera-superavit-de-r-186-bilhoes-no-orcamento-de-2027",
+  "titulo": "Governo espera superávit de R$ 18,6 bilhões no Orçamento de 2027",
+  "data_pagina": "2026-08-31T17:52:00-03:00",
+  "capturado_em": "2026-11-23T11:34:05-03:00",
+  "sha256": "9bd5334c6a80eaafaa6f860fe0e7a9e74a6555063ce6021c1d864bfd1fa2768a"
+ },
+ "opovo-timido": {
+  "arquivo": "dados/capturas/opovo-timido.txt",
+  "url": "https://mais.opovo.com.br/jornal/economia/2026/11/16/pacote-fiscal-de-lula-divide-a-esquerda-e-e-visto-como-timido-por-economistas.html",
+  "titulo": "Pacote fiscal de Lula divide a esquerda e é visto como tímido por economistas",
+  "data_pagina": "2026-11-16T01:15:00Z",
+  "capturado_em": "2026-11-23T11:31:23-03:00",
+  "sha256": "f2bf0bf7aece7f3302e697bb408366d57aff6d391c212024b4dcec5d8f37cb98"
+ },
+ "sindsep-sem-alterar": {
+  "arquivo": "dados/capturas/sindsep-sem-alterar.txt",
+  "url": "https://www.sindsep-pe.com.br/noticias-detalhe/camara-vota-ajuste-fiscal-nesta-segunda-23-sem-alterar-texto-do-senado-para-acelerar-tramitacao/16847",
+  "titulo": "Câmara vota ajuste fiscal nesta segunda (23) sem alterar texto do Senado para acelerar tramitação",
+  "data_pagina": "None",
+  "capturado_em": "2026-11-23T11:35:04-03:00",
+  "sha256": "b529fca79887b4bf9bf70928fd56e0fb342d58884408f0d1c6926c904e7f6390"
+ }
+}

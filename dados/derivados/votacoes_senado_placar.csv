@@ -1,0 +1,7 @@
+votacao,rotulo,oficial_sim,oficial_nao,oficial_abst,oficial_presidente,oficial_total,contados_sim,contados_nao,contados_abst
+senado-votacao-req-770-urgencia,12/11 · urgência (Req. 770),40,38,0,1,79,40,38,0
+senado-votacao-texto-base,12/11 · texto-base (substitutivo),45,31,0,1,77,45,31,0
+senado-votacao-emenda-40,18/11 · Emenda 40 (Marinho),30,47,0,1,78,30,47,0
+senado-votacao-comprev,18/11 · destaque: limite da compensação previdenciária,45,32,1,1,79,45,32,1
+senado-votacao-compensacao,18/11 · destaque: limite da compensação tributária,49,31,0,1,81,49,31,0
+senado-votacao-turno-suplementar,18/11 · turno suplementar (texto final),69,2,1,1,73,69,2,1

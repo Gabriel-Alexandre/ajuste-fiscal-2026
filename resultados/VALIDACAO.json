@@ -1,0 +1,204 @@
+{
+ "passaram": 33,
+ "total": 33,
+ "testes": [
+  {
+   "teste": "Jota: gasto contido, mínimo",
+   "esperado": 12.8,
+   "obtido": 12.8,
+   "passou": true
+  },
+  {
+   "teste": "Jota: gasto contido, máximo",
+   "esperado": 18.3,
+   "obtido": 18.3,
+   "passou": true
+  },
+  {
+   "teste": "Jota: receita total, mínimo",
+   "esperado": 32.3,
+   "obtido": 32.3,
+   "passou": true
+  },
+  {
+   "teste": "Jota: receita total, máximo",
+   "esperado": 37.8,
+   "obtido": 37.8,
+   "passou": true
+  },
+  {
+   "teste": "DIAP: receita mínima",
+   "esperado": 32.3,
+   "obtido": 32.3,
+   "passou": true
+  },
+  {
+   "teste": "DIAP: receita máxima",
+   "esperado": 37.8,
+   "obtido": 37.8,
+   "passou": true
+  },
+  {
+   "teste": "DIAP: gasto mínimo",
+   "esperado": 12.8,
+   "obtido": 12.8,
+   "passou": true
+  },
+  {
+   "teste": "DIAP: gasto máximo",
+   "esperado": 18.3,
+   "obtido": 18.3,
+   "passou": true
+  },
+  {
+   "teste": "Folha: receita mínima (a Folha parte de R$ 46 bi, por isso a tolerância)",
+   "esperado": 33.0,
+   "obtido": 32.3,
+   "passou": true
+  },
+  {
+   "teste": "Folha: receita máxima",
+   "esperado": 38.3,
+   "obtido": 37.8,
+   "passou": true
+  },
+  {
+   "teste": "Folha: 'dois terços' contra a nossa parte da receita no meio da faixa (%)",
+   "esperado": 66.7,
+   "obtido": 69.2,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-req-770-urgencia (sim)",
+   "esperado": 40,
+   "obtido": 40,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-req-770-urgencia (não)",
+   "esperado": 38,
+   "obtido": 38,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-texto-base (sim)",
+   "esperado": 45,
+   "obtido": 45,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-texto-base (não)",
+   "esperado": 31,
+   "obtido": 31,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-emenda-40 (sim)",
+   "esperado": 30,
+   "obtido": 30,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-emenda-40 (não)",
+   "esperado": 47,
+   "obtido": 47,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-comprev (sim)",
+   "esperado": 45,
+   "obtido": 45,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-comprev (não)",
+   "esperado": 32,
+   "obtido": 32,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-compensacao (sim)",
+   "esperado": 49,
+   "obtido": 49,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-compensacao (não)",
+   "esperado": 31,
+   "obtido": 31,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-turno-suplementar (sim)",
+   "esperado": 69,
+   "obtido": 69,
+   "passou": true
+  },
+  {
+   "teste": "tramitação × listagem nominal: senado-votacao-turno-suplementar (não)",
+   "esperado": 2,
+   "obtido": 2,
+   "passou": true
+  },
+  {
+   "teste": "RAF 116: tabela 7 refaz o aumento das obrigatórias",
+   "esperado": 131.4,
+   "obtido": 131.4,
+   "passou": true
+  },
+  {
+   "teste": "RAF 117: 2026, antes das deduções + deduções = depois",
+   "esperado": -13.6,
+   "obtido": -13.6,
+   "passou": true
+  },
+  {
+   "teste": "meta de 2027 sobre o PIB do PLOA = 0,5%",
+   "esperado": 0.5,
+   "obtido": 0.5,
+   "passou": true
+  },
+  {
+   "teste": "Agência Brasil: o déficit de 2026 antes das deduções (4º bimestre, R$ bi)",
+   "esperado": 80.9,
+   "obtido": 80.9,
+   "passou": true
+  },
+  {
+   "teste": "Câmara: arts. 4º, 9º e 6º-F ampliam receita",
+   "esperado": 1,
+   "obtido": 1,
+   "passou": true
+  },
+  {
+   "teste": "Câmara: o 6º-F é antecipação de arrecadação",
+   "esperado": 1,
+   "obtido": 1,
+   "passou": true
+  },
+  {
+   "teste": "Câmara: o bloqueio é reversível no curso do exercício",
+   "esperado": 1,
+   "obtido": 1,
+   "passou": true
+  },
+  {
+   "teste": "Emenda 40: teto de 0,6%",
+   "esperado": 1,
+   "obtido": 1,
+   "passou": true
+  },
+  {
+   "teste": "Emenda 40: suprime o 6º-F (compensação)",
+   "esperado": 1,
+   "obtido": 1,
+   "passou": true
+  },
+  {
+   "teste": "Emenda 40: tira o diesel da meta",
+   "esperado": 1,
+   "obtido": 1,
+   "passou": true
+  }
+ ]
+}

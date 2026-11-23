@@ -1,0 +1,477 @@
+{
+ "gerado_por": "ferramentas/analise.py",
+ "composicao_2027": {
+  "pontas": {
+   "minimo": {
+    "total": 45.1,
+    "gasto_contido": 12.8,
+    "receita_antecipada": 12.8,
+    "imposto_a_mais": 19.5,
+    "receita_total": 32.3,
+    "pct_gasto": 28.4,
+    "pct_receita": 71.6,
+    "pct_receita_antecipada": 28.4,
+    "pct_imposto_a_mais": 43.2
+   },
+   "maximo": {
+    "total": 56.1,
+    "gasto_contido": 18.3,
+    "receita_antecipada": 18.3,
+    "imposto_a_mais": 19.5,
+    "receita_total": 37.8,
+    "pct_gasto": 32.6,
+    "pct_receita": 67.4,
+    "pct_receita_antecipada": 32.6,
+    "pct_imposto_a_mais": 34.8
+   }
+  },
+  "meio_da_faixa": {
+   "total": 50.6,
+   "gasto_contido": 15.6,
+   "receita_antecipada": 15.6,
+   "imposto_a_mais": 19.5,
+   "receita_total": 35.0,
+   "pct_gasto": 30.8,
+   "pct_receita": 69.2,
+   "pct_receita_antecipada": 30.8,
+   "pct_imposto_a_mais": 38.5
+  },
+  "de_cada_100": {
+   "gasto_contido": 31,
+   "receita_antecipada": 31,
+   "imposto_a_mais": 38,
+   "receita_total": 69
+  },
+  "medidas": [
+   {
+    "medida": "contingenciamento",
+    "nome": "Bloqueio de despesas para buscar o centro da meta (art. 6º-C a 6º-E)",
+    "natureza": "gasto contido",
+    "minimo": "12.8",
+    "maximo": "18.3",
+    "fonte": "senado-parecer-221"
+   },
+   {
+    "medida": "compensacao",
+    "nome": "Limite ao uso de créditos tributários para pagar outros tributos (art. 6º-F)",
+    "natureza": "receita antecipada",
+    "minimo": "12.8",
+    "maximo": "18.3",
+    "fonte": "senado-parecer-221"
+   },
+   {
+    "medida": "beneficios",
+    "nome": "Corte linear de benefícios fiscais, de 10% para 20% (art. 4º)",
+    "natureza": "imposto a mais",
+    "minimo": "15.0",
+    "maximo": "15.0",
+    "fonte": "senado-parecer-221"
+   },
+   {
+    "medida": "reidi",
+    "nome": "Teto para o benefício do Reidi (art. 9º)",
+    "natureza": "imposto a mais",
+    "minimo": "4.5",
+    "maximo": "4.5",
+    "fonte": "senado-parecer-221"
+   }
+  ]
+ },
+ "variantes": [
+  {
+   "id": "V1",
+   "leitura": "só conta como imposto o que aumenta tributo para sempre (benefícios e Reidi); a compensação vira 'adiantamento'",
+   "pct_imposto_min": 43.2,
+   "pct_imposto_max": 34.8,
+   "efeito": "o imposto a mais cai para 35% a 43%; o gasto contido continua de 28% a 33%; o resto (28% a 33%) é dinheiro das empresas adiantado"
+  },
+  {
+   "id": "V2",
+   "leitura": "o bloqueio é facultativo; se o governo não bloquear, a lei também não deixa limitar a compensação (art. 6º-F)",
+   "total": 19.5,
+   "pct_receita": 100.0,
+   "efeito": "sobra só o imposto a mais, R$ 19.5 bilhões, e 100% do ajuste vira receita"
+  },
+  {
+   "id": "V3",
+   "leitura": "o governo bloqueia o teto da faixa e a compensação vem no teto",
+   "pct_gasto": 32.6,
+   "pct_receita": 67.4,
+   "efeito": "é a ponta mais favorável ao lado do gasto, e o gasto contido não passa de um terço"
+  }
+ ],
+ "buraco": {
+  "ajuste_pct_pib": [
+   0.31,
+   0.38
+  ],
+  "ajuste_necessario_ifi_rs_bi": 443.5,
+  "ajuste_cobre_do_necessario_pct": [
+   10.2,
+   12.6
+  ],
+  "aumento_obrigatorias_2027_rs_bi": 131.4,
+  "ajuste_sobre_aumento_obrigatorias_pct": [
+   34.3,
+   42.7
+  ],
+  "gasto_contido_sobre_aumento_obrigatorias_pct": [
+   9.7,
+   13.9
+  ],
+  "promessas_nao_orcadas_rs_bi": 40.0,
+  "promessas_sobre_ajuste_pct": [
+   71.3,
+   88.7
+  ],
+  "distancia_ploa_ifi_2027_rs_bi": 104.7,
+  "ajuste_sobre_distancia_ploa_ifi_pct": [
+   43.1,
+   53.6
+  ],
+  "ifi_bloqueio_que_faltaria_2027_rs_bi": 35.7,
+  "meta2027_centro_rs_bi": 73.2,
+  "meta2027_centro_pct_pib": 0.5,
+  "ploa2027_primario_efetivo_rs_bi": 18.6,
+  "ifi2027_primario_efetivo_rs_bi": -86.1,
+  "ifi2026_deficit_pct_pib": 0.5,
+  "ifi2027_deficit_potencial_pct_pib": 1.0,
+  "primario_que_estabiliza_divida_pct_pib": [
+   2.1,
+   2.9
+  ],
+  "divida_bruta": {
+   "set_2026_bc": 82.9,
+   "fim_2027_ifi": 86.4,
+   "chance_passar_90_ate_2030_pct": 81.6
+  },
+  "ano_2026": {
+   "tesouro_jan_set_rs_bi": -90.2,
+   "rardp_antes_deducoes_rs_bi": -80.9,
+   "deducoes_rs_bi": 67.3,
+   "rardp_depois_deducoes_rs_bi": -13.6,
+   "meta_piso_rs_bi": 0.0,
+   "diesel_fora_da_meta_rs_bi": 10.5,
+   "diesel_sobre_deficit_antes_deducoes_pct": 13.0,
+   "deducoes_com_diesel_rs_bi": 77.8,
+   "diesel_sobre_ajuste_2027_pct": [
+    18.7,
+    23.3
+   ]
+  }
+ },
+ "fora_da_tabela_de_impacto": {
+  "kandir_teto_anual_rs_bi": 2.0,
+  "comprev_teto_anual_rs_bi": 3.0,
+  "proex_teto_rs_bi": 1.0,
+  "medidas_que_abrem_espaco_para_promessas_rs_bi": 10.0,
+  "supersalarios_estimativa_ministro_rs_bi": 3.0
+ },
+ "depois_do_senado": {
+  "relator_rs_bi": 50.0,
+  "ministro_faixa_rs_bi": [
+   46.0,
+   56.0
+  ]
+ },
+ "votacoes_senado": {
+  "placar": [
+   {
+    "votacao": "senado-votacao-req-770-urgencia",
+    "rotulo": "12/11 · urgência (Req. 770)",
+    "oficial_sim": "40",
+    "oficial_nao": "38",
+    "oficial_abst": "0",
+    "oficial_presidente": "1",
+    "oficial_total": "79",
+    "contados_sim": "40",
+    "contados_nao": "38",
+    "contados_abst": "0"
+   },
+   {
+    "votacao": "senado-votacao-texto-base",
+    "rotulo": "12/11 · texto-base (substitutivo)",
+    "oficial_sim": "45",
+    "oficial_nao": "31",
+    "oficial_abst": "0",
+    "oficial_presidente": "1",
+    "oficial_total": "77",
+    "contados_sim": "45",
+    "contados_nao": "31",
+    "contados_abst": "0"
+   },
+   {
+    "votacao": "senado-votacao-emenda-40",
+    "rotulo": "18/11 · Emenda 40 (Marinho)",
+    "oficial_sim": "30",
+    "oficial_nao": "47",
+    "oficial_abst": "0",
+    "oficial_presidente": "1",
+    "oficial_total": "78",
+    "contados_sim": "30",
+    "contados_nao": "47",
+    "contados_abst": "0"
+   },
+   {
+    "votacao": "senado-votacao-comprev",
+    "rotulo": "18/11 · destaque: limite da compensação previdenciária",
+    "oficial_sim": "45",
+    "oficial_nao": "32",
+    "oficial_abst": "1",
+    "oficial_presidente": "1",
+    "oficial_total": "79",
+    "contados_sim": "45",
+    "contados_nao": "32",
+    "contados_abst": "1"
+   },
+   {
+    "votacao": "senado-votacao-compensacao",
+    "rotulo": "18/11 · destaque: limite da compensação tributária",
+    "oficial_sim": "49",
+    "oficial_nao": "31",
+    "oficial_abst": "0",
+    "oficial_presidente": "1",
+    "oficial_total": "81",
+    "contados_sim": "49",
+    "contados_nao": "31",
+    "contados_abst": "0"
+   },
+   {
+    "votacao": "senado-votacao-turno-suplementar",
+    "rotulo": "18/11 · turno suplementar (texto final)",
+    "oficial_sim": "69",
+    "oficial_nao": "2",
+    "oficial_abst": "1",
+    "oficial_presidente": "1",
+    "oficial_total": "73",
+    "contados_sim": "69",
+    "contados_nao": "2",
+    "contados_abst": "1"
+   }
+  ],
+  "por_partido": {
+   "senado-votacao-texto-base": {
+    "-": {
+     "SIM": 1,
+     "NÃO": 0
+    },
+    "AVANTE": {
+     "SIM": 0,
+     "NÃO": 1
+    },
+    "MDB": {
+     "SIM": 8,
+     "NÃO": 1
+    },
+    "PDT": {
+     "SIM": 1,
+     "NÃO": 0
+    },
+    "PL": {
+     "SIM": 2,
+     "NÃO": 12
+    },
+    "PSB": {
+     "SIM": 6,
+     "NÃO": 1
+    },
+    "PSD": {
+     "SIM": 9,
+     "NÃO": 5
+    },
+    "PSDB": {
+     "SIM": 2,
+     "NÃO": 2
+    },
+    "PT": {
+     "SIM": 8,
+     "NÃO": 0
+    },
+    "Podemos": {
+     "SIM": 1,
+     "NÃO": 1
+    },
+    "Progressistas": {
+     "SIM": 3,
+     "NÃO": 4
+    },
+    "Republicanos": {
+     "SIM": 2,
+     "NÃO": 4
+    },
+    "UNIÃO": {
+     "SIM": 2,
+     "NÃO": 0
+    }
+   },
+   "senado-votacao-emenda-40": {
+    "-": {
+     "SIM": 0,
+     "NÃO": 1
+    },
+    "AVANTE": {
+     "SIM": 1,
+     "NÃO": 0
+    },
+    "MDB": {
+     "SIM": 1,
+     "NÃO": 8
+    },
+    "PDT": {
+     "SIM": 0,
+     "NÃO": 1
+    },
+    "PL": {
+     "SIM": 13,
+     "NÃO": 1
+    },
+    "PSB": {
+     "SIM": 0,
+     "NÃO": 7
+    },
+    "PSD": {
+     "SIM": 2,
+     "NÃO": 11
+    },
+    "PSDB": {
+     "SIM": 2,
+     "NÃO": 2
+    },
+    "PT": {
+     "SIM": 0,
+     "NÃO": 9
+    },
+    "Podemos": {
+     "SIM": 1,
+     "NÃO": 2
+    },
+    "Progressistas": {
+     "SIM": 5,
+     "NÃO": 3
+    },
+    "Republicanos": {
+     "SIM": 5,
+     "NÃO": 0
+    },
+    "UNIÃO": {
+     "SIM": 0,
+     "NÃO": 2
+    }
+   },
+   "senado-votacao-compensacao": {
+    "-": {
+     "SIM": 1,
+     "NÃO": 0
+    },
+    "AVANTE": {
+     "SIM": 0,
+     "NÃO": 1
+    },
+    "MDB": {
+     "SIM": 8,
+     "NÃO": 1
+    },
+    "PDT": {
+     "SIM": 1,
+     "NÃO": 0
+    },
+    "PL": {
+     "SIM": 1,
+     "NÃO": 14
+    },
+    "PSB": {
+     "SIM": 7,
+     "NÃO": 0
+    },
+    "PSD": {
+     "SIM": 12,
+     "NÃO": 2
+    },
+    "PSDB": {
+     "SIM": 2,
+     "NÃO": 2
+    },
+    "PT": {
+     "SIM": 9,
+     "NÃO": 0
+    },
+    "Podemos": {
+     "SIM": 2,
+     "NÃO": 1
+    },
+    "Progressistas": {
+     "SIM": 3,
+     "NÃO": 5
+    },
+    "Republicanos": {
+     "SIM": 1,
+     "NÃO": 5
+    },
+    "UNIÃO": {
+     "SIM": 2,
+     "NÃO": 0
+    }
+   },
+   "senado-votacao-turno-suplementar": {
+    "-": {
+     "SIM": 1,
+     "NÃO": 0
+    },
+    "AVANTE": {
+     "SIM": 1,
+     "NÃO": 0
+    },
+    "MDB": {
+     "SIM": 9,
+     "NÃO": 0
+    },
+    "PDT": {
+     "SIM": 1,
+     "NÃO": 0
+    },
+    "PL": {
+     "SIM": 10,
+     "NÃO": 1
+    },
+    "PSB": {
+     "SIM": 6,
+     "NÃO": 0
+    },
+    "PSD": {
+     "SIM": 11,
+     "NÃO": 0
+    },
+    "PSDB": {
+     "SIM": 4,
+     "NÃO": 0
+    },
+    "PT": {
+     "SIM": 9,
+     "NÃO": 0
+    },
+    "Podemos": {
+     "SIM": 2,
+     "NÃO": 1
+    },
+    "Progressistas": {
+     "SIM": 7,
+     "NÃO": 0
+    },
+    "Republicanos": {
+     "SIM": 6,
+     "NÃO": 0
+    },
+    "UNIÃO": {
+     "SIM": 2,
+     "NÃO": 0
+    }
+   }
+  }
+ },
+ "camara": {
+  "votacoes_registradas": "0",
+  "situacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+  "ultima_tramitacao": "2026-11-19T18:47",
+  "despacho": "Apresentação do REQ n. 4504/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputado Paulo Pimenta (PT/RS -Fdr PT-PCdoB-PV) e outros, que \"Requer, nos termos do artigo 155 do Regimento Inter"
+ }
+}

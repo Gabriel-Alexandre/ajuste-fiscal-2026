@@ -1,0 +1,1012 @@
+                                               NOTA TÉCNICA
+
+                                                     Assunto: PLP nº 299/2026 — Análise dos
+                                                     impactos fiscais, das alterações no regime de
+                                                     despesas primárias, dos efeitos sobre saúde,
+                                                     educação, previdência e assistência social e da
+                                                     regulamentação do teto remuneratório do
+                                                     serviço público.
+
+1. Objeto, documentação examinada e síntese conclusiva
+
+A presente Nota Técnica examina os efeitos fiscais, orçamentários e jurídicos do Projeto
+de Lei Complementar (PLP) nº 299, de 2026, de autoria do senador Jaques Wagner, na
+forma do substitutivo apresentado pelo senador Eduardo Braga e aprovado, quanto ao
+texto-base, pelo Plenário do Senado Federal em 12 de novembro de 2026.
+
+O PLP tem por objetivo reforçar o ajuste das contas públicas federais mediante a
+combinação de aumento de arrecadação, restrições a benefícios tributários, contenção
+de despesas primárias e ampliação dos instrumentos de gestão fiscal. O projeto procura
+melhorar o resultado primário da União sem modificar diretamente os direitos
+constitucionais aos benefícios previdenciários e assistenciais.
+
+Em 12 de novembro, o texto-base recebeu 45 votos favoráveis e 31 contrários.
+Permanecem quatro destaques pendentes de votação, prevista para 17 de novembro,
+relativos à compensação tributária, aos repasses da Lei Kandir, à compensação
+previdenciária entre regimes e à possibilidade de desvinculação de superávits financeiros
+de fontes vinculadas. Portanto, as conclusões desta nota dizem respeito ao texto-base
+aprovado, ainda sujeito a modificações, e não a uma lei complementar já em vigor.
+
+Caso rejeitados os dispositivos destacados, haverá expressivos impactos sobe os efeitos
+da proposição.
+
+A análise permite antecipar seis conclusões fundamentais.
+
+Primeiro, o substitutivo poderá melhorar o resultado primário de 2027 em montante
+estimado pelo parecer entre R$ 45,1 bilhões e R$ 56,1 bilhões, combinando aumento de
+arrecadação e contenção de despesas. Essa estimativa, entretanto, não foi inteiramente
+recalculada depois das modificações incorporadas ao texto-base pelo Relator no Senado.
+
+                                                         1
+Segundo o projeto não promove uma redução permanente e generalizada do teto de
+despesas primárias estabelecido pela LC nº 200/2023. Cria mecanismos condicionais
+para restringir a execução orçamentária em determinados exercícios, quando apurado
+déficit primário, inclusive mediante redução temporária do crescimento real do limite de
+despesas primárias permitido de 2,5% para 2%.
+
+Terceiro, o aumento de arrecadação decorrente das medidas tributárias não se converte
+automaticamente em autorização para expandir as despesas primárias na mesma
+proporção, devido às restrições impostas pelo regime fiscal sustentável da LC 200/2023.
+
+Quarto, não há redução nominal direta dos pisos constitucionais de saúde e
+educação, mas há efeitos distintos sobre as respectivas bases de cálculo. O piso
+federal da saúde, vinculado à receita corrente líquida, poderá ser afetado imediatamente
+pela exclusão de determinadas receitas petrolíferas, interpretação que suscita
+controvérsia constitucional. O piso da educação, vinculado à receita de impostos, não
+sofre a mesma exclusão; a arrecadação adicional de impostos poderá inclusive elevá-lo.
+
+Quinto, o substitutivo não altera diretamente os valores, os requisitos de elegibilidade ou
+os critérios legais de reajustamento de aposentadorias, pensões, Benefício de Prestação
+Continuada (BPC) e demais benefícios sociais. Subsistem, contudo, efeitos indiretos
+importantes, especialmente pela compressão das despesas discricionárias e pelo limite
+introduzido na compensação financeira entre regimes previdenciários.
+
+Sexto, a regulamentação do teto remuneratório previsto no art. 37, XI e § 11, da
+Constituição poderá produzir economia relevante, mas o projeto não a quantifica nem
+realiza imediatamente os cortes. Além disso, o texto aprovado determina que as
+economias apuradas no Legislativo, Judiciário, Ministério Público e Defensoria Pública
+permaneçam nos respectivos Poderes e órgãos, para reestruturação e recomposição de
+seus quadros. No Executivo, admite destinação distinta, inclusive com redução do limite
+de despesas.
+
+2. Impacto fiscal estimado para 2027
+
+De acordo com o Parecer nº 221/2026-PLEN, baseado em informações do Poder
+Executivo, o projeto deverá produzir melhora do resultado primário por quatro
+mecanismos principais: ampliação do contingenciamento, restrição às compensações
+tributárias, redução adicional de benefícios fiscais e limitação dos gastos tributários do
+Regime Especial de Incentivos para o Desenvolvimento da Infraestrutura (Reidi).
+
+A estimativa consolidada apresentada no parecer é de R$ 45,1 bilhões a R$ 56,1 bilhões:
+
+Medida     Impacto estimado em
+           2027
+
+        2
+Contingenciamento adicional para aproximação do centro  R$ 12,8 a 18,3 bilhões
+da meta
+
+Limitação de compensações tributárias                   R$ 12,8 a 18,3 bilhões
+
+Redução adicional dos benefícios tributários            R$ 15,0 bilhões
+
+Limitação do Reidi                                      R$ 4,5 bilhões
+
+Total estimado                                          R$ 45,1 a 56,1 bilhões
+
+Fonte: Parecer nº 221/2026-PLEN e Nota Informativa da Conorf/Senado, de 13/11/2026. Valores sujeitos à
+implementação das medidas e à revisão após as alterações legislativas.
+
+                Composição do ajuste fiscal estimado para 2027
+
+Intervalos de impacto no resultado primário, em R$ bilhões
+
+■ Estimativa mínima
+■ Estimativa máxima
+
+A composição do ajuste revela um aspecto essencial: nem todo o impacto positivo
+representa aumento de receitas públicas.
+As restrições às compensações tributárias e a redução de benefícios fiscais e do Reidi
+representam, essencialmente, medidas de incremento da arrecadação, ainda que parte
+desse efeito possa ser apenas temporal.
+O contingenciamento, diferentemente, representa contenção de despesas que estavam
+autorizadas e que deixariam de ser executadas no exercício considerado. O texto
+aprovado, porém, excetua do contingenciamento as despesas com vinculação
+constitucional e as ressalvadas pela Lei de Diretrizes Orçamentárias, obrigatórias, tais
+como pessoal, benefícios previdenciários e outras.
+
+                                                         3
+Considerando exclusivamente os três componentes relacionados à arrecadação, o efeito
+estimado situa-se entre R$ 32,3 bilhões e R$ 37,8 bilhões. A economia por contenção de
+despesas corresponde ao intervalo de R$ 12,8 bilhões a R$ 18,3 bilhões.
+
+É necessário, porém, distinguir o aumento efetivo e permanente da receita da simples
+antecipação de recolhimentos. A limitação da compensação tributária poderá obrigar
+empresas a efetuar pagamentos em dinheiro que, pelas regras atuais, poderiam ser
+quitados mediante créditos tributários legítimos. Se esses créditos permanecerem
+disponíveis para utilização posterior ou restituição, o ganho fiscal de 2027 poderá ser
+parcialmente compensado por menor arrecadação ou maior desembolso em exercícios
+seguintes.
+
+Ademais, a estimativa dos R$ 100 bilhões de melhora na margem da chamada regra de
+ouro, reproduzida no parecer, não pode ser considerada efeito assegurado, pois foi
+suprimida no texto-base aprovado a autorização para desvinculação de até 40% dos
+superávits financeiros de fontes legalmente vinculadas.
+
+Portanto, não é tecnicamente adequado somar os R$ 100 bilhões às estimativas de
+melhora do resultado primário. Trata-se de efeitos fiscais de natureza distinta.
+
+3. Alterações na LC nº 200/2023 e consequências para o teto de despesas primárias
+
+A Lei Complementar nº 200/2023 instituiu o Regime Fiscal Sustentável em substituição ao
+regime do teto de gastos criado pela Emenda Constitucional nº 95/2016.
+
+O novo regime estabelece limites individualizados para as despesas primárias dos
+Poderes e órgãos federais. Esses limites são atualizados anualmente pelo IPCA, acrescido
+de crescimento real correspondente, em regra, a 70% do crescimento real das receitas,
+ou 50% quando a meta fiscal do exercício anterior não tiver sido cumprida, respeitada a
+faixa de 0,6% a 2,5% ao ano.
+
+A característica fundamental desse modelo é que o crescimento da receita não pode ser
+integralmente convertido em aumento das despesas.
+
+O PLP nº 299/2026 aprofunda essa característica em quatro dimensões.
+
+3.1. Redução condicionada do crescimento real máximo de 2,5% para 2%
+
+A nova redação proposta para o art. 5º, §§ 5º e 6º, da LC nº 200/2023 estabelece que, a
+partir de 2027, nos exercícios em que forem adotadas as medidas de contingenciamento
+previstas no art. 9º da Lei de Responsabilidade Fiscal e no novo art. 6º-C, em especial
+quando apurado déficit primário, o crescimento real das despesas primárias não poderá
+ultrapassar 2%.
+
+                                                         4
+A alteração é relevante porque, nas situações de maior crescimento das receitas, o limite
+de despesas poderia crescer até 2,5% acima da inflação. A nova regra restringirá esse
+crescimento a 2%, desde que verificadas as condições legais.
+
+A Conorf do Senado Federal apresenta uma simulação baseada no PLOA 2027:
+
+Componente         Regra de 2,5% Regra de 2%
+
+Base de cálculo de 2026 R$ 2.392,6 bi R$ 2.392,6 bi
+
+Correção pela inflação R$ 111,0 bi R$ 111,0 bi
+
+Crescimento real   R$ 62,6 bi  R$ 50,1 bi
+
+Limite calculado para 2027 R$ 2.566,2 bi R$ 2.553,7 bi
+
+Redução potencial  —           R$ 12,5 bi
+
+Fonte: Nota Informativa Conorf/Senado, p. 9. Simulação condicionada à aplicação dos mecanismos legais
+de contenção. Não inclui ajuste adicional de R$ 10,4 bilhões relativo à diferença entre inflação projetada e
+apurada.
+
+A diferença potencial de R$ 12,5 bilhões corresponde a uma restrição de
+aproximadamente 0,5% do limite calculado para 2027.
+
+Não significa, porém, que haverá corte automático de R$ 12,5 bilhões no orçamento
+aprovado. O texto prevê sua implementação mediante contenção na execução das
+despesas. A própria redação utiliza a conjunção “e”, indicando a necessidade de adoção
+das duas modalidades de contingenciamento previstas.
+
+Outro elemento importante é que essa redução não será incorporada à base de cálculo
+dos exercícios seguintes.
+
+Consequentemente, trata-se de um mecanismo de contenção temporária, aplicável ao
+exercício em que as condições forem verificadas, e não de redução estrutural permanente
+do limite estabelecido na LC nº 200/2023.
+
+3.2. Contingenciamento para atingir o centro da meta fiscal
+
+O novo art. 6º-C permitirá que o Executivo realize contingenciamento mesmo quando a
+projeção de resultado primário estiver dentro do intervalo inferior de tolerância da meta
+fiscal.
+
+Atualmente, o limite inferior da banda constitui a principal referência operacional para
+determinar a necessidade de contingenciamento.
+
+Com a alteração, o Executivo poderá promover contenção adicional para aproximar o
+resultado do centro da meta, reduzindo despesas mesmo quando a projeção já satisfizer
+o requisito mínimo de cumprimento da meta fiscal.
+
+O mecanismo é facultativo, mas aumenta significativamente o poder do Executivo sobre
+a execução orçamentária.
+
+                   5
+Considerando a meta de superávit primário de R$ 73,2 bilhões proposta para 2027,
+correspondente a 0,5% do PIB, e um limite inferior de aproximadamente R$ 36,6 bilhões,
+será possível intensificar a contenção para aproximar o resultado do centro da meta.
+
+Isso significa que despesas autorizadas pelo Congresso Nacional poderão deixar de ser
+executadas, embora exista previsão orçamentária e embora o resultado projetado já se
+encontre dentro da banda de tolerância.
+
+Do ponto de vista econômico, a medida poderá melhorar o resultado primário e diminuir
+as necessidades de financiamento do Tesouro. Do ponto de vista da execução das
+políticas públicas, entretanto, poderá ampliar a postergação de investimentos e a
+compressão das despesas discricionárias.
+
+3.3. Ampliação das despesas sujeitas a contingenciamento
+
+O novo art. 6º-D permitirá contingenciar determinadas despesas primárias do Poder
+Executivo que, embora previstas em lei, estejam condicionadas à disponibilidade
+orçamentária e financeira ou a limites de dotação.
+
+Trata-se de alteração importante em relação à proteção tradicionalmente assegurada às
+despesas obrigatórias pelo art. 9º, § 2º, da Lei de Responsabilidade Fiscal.
+
+O texto aprovado passou a restringir a medida ao Poder Executivo federal e estabelece
+exceções expressas para as obrigações constitucionais, o serviço da dívida, as despesas
+de inovação e desenvolvimento científico e tecnológico custeadas por fundos específicos
+e aquelas ressalvadas pela LDO.
+
+Além disso, diferencia o contingenciamento da redução ou cancelamento de dotações,
+exigindo que estes últimos ocorram nos termos da lei orçamentária.
+
+A alteração poderá alcançar, por exemplo, despesas legais condicionadas a dotações
+específicas, como determinadas subvenções e compensações financeiras.
+
+Contudo, não autoriza, por si só, o contingenciamento de qualquer despesa obrigatória,
+tampouco a suspensão indiscriminada do cumprimento de obrigações constitucionais.
+
+3.4. Redução adicional do limite de despesas no próprio exercício
+
+O novo art. 6º-E estabelece que a contenção realizada pelo mecanismo preventivo,
+quando superar a necessária para o cumprimento do limite de crescimento real de 2%,
+produzirá redução adicional do limite individualizado do Poder Executivo no mesmo
+exercício.
+
+Essa redução não será incorporada à base dos exercícios seguintes e não poderá ser
+utilizada para recompor dotações durante o próprio ano.
+
+                                                         6
+A medida transforma parte do contingenciamento em efetiva indisponibilidade do espaço
+fiscal.
+
+A consequência é relevante: não se trata simplesmente de postergar a execução de
+determinadas despesas, mas de impedir que o montante correspondente seja utilizado
+para financiar outras despesas primárias naquele exercício.
+
+3.5. Autorização de investimentos fora do limite no exercício seguinte
+
+O art. 12 introduz mecanismo de natureza distinta. Caso o resultado primário do exercício
+anterior supere o limite inferior da banda e tenham sido adotadas as medidas previstas no
+art. 6º-C, o Executivo poderá abrir crédito adicional para investimentos estruturantes,
+inclusive aqueles definidos pelas bancadas estaduais no processo legislativo
+orçamentário.
+
+O crédito será limitado ao montante da contenção de despesas realizada com base no art.
+6º-C e não será contabilizado no limite de despesas primárias da LC nº 200/2023.
+
+Isso cria uma possibilidade de compensação intertemporal: parte das despesas contidas
+em determinado ano poderá abrir espaço para investimentos no exercício seguinte, fora
+do limite ordinário.
+
+Entretanto, a autorização não significa disponibilidade automática de recursos
+financeiros nem dispensa do cumprimento da meta de resultado primário do ano
+seguinte. Também não configura transferência financeira automática entre exercícios.
+
+O mecanismo reduz a rigidez do teto para uma categoria delimitada de investimentos, mas
+a despesa efetivamente realizada continuará afetando o resultado primário, salvo se
+existir outra exclusão legal específica.
+
+4. Aumento da arrecadação e seus efeitos sobre a capacidade de gasto público
+
+O principal reforço de receitas previsto no substitutivo decorre da ampliação do corte
+linear de benefícios tributários instituído pela LC nº 224/2025.
+
+O art. 4º da proposição eleva de 10% para 20% o parâmetro aplicado aos incentivos fiscais
+abrangidos pela legislação, alcançando isenções, alíquotas reduzidas, créditos
+presumidos, reduções de bases de cálculo e determinados regimes de tributação
+favorecida.
+
+No caso do lucro presumido, por exemplo, a alteração amplia o acréscimo dos
+percentuais de presunção, com incidência sobre a parcela da receita sujeita à regra,
+acima do limite de R$ 5 milhões anuais referido na disciplina vigente. A medida poderá
+elevar o IRPJ e a CSLL de empresas enquadradas nesse regime.
+
+                                                         7
+O texto-base aprovado também amplia a referência temporal dos gastos tributários
+sujeitos à redução: em lugar de considerar exclusivamente o demonstrativo de 2026,
+passa a contemplar o demonstrativo anexo à lei orçamentária do respectivo exercício.
+
+Foram preservadas exceções, incluindo a Contribuição Previdenciária sobre a Receita
+Bruta (CPRB), benefícios de política industrial para tecnologias da informação e
+semicondutores e incentivos à aquisição de veículos por pessoas com deficiência ou
+transtorno do espectro autista.
+
+Essas exceções reduzem o universo potencial de arrecadação em comparação com a
+versão anterior do substitutivo. A estimativa de R$ 15 bilhões, portanto, necessita ser
+reavaliada.
+
+O art. 9º, por sua vez, estabelece limite global para o Reidi, corrigido pelo IPCA, utilizando
+como referência o demonstrativo de gastos tributários anexo à LOA 2026. O efeito fiscal
+positivo estimado em R$ 4,5 bilhões dependerá da efetiva aplicação dessa limitação, da
+demanda por projetos e das condições do regime de transição da reforma tributária.
+
+Convém salientar que a arrecadação adicional poderá melhorar as contas públicas por
+três vias: ampliação do resultado primário, eventual redução das necessidades de
+endividamento e expansão limitada do teto de despesas em exercícios futuros, conforme
+a fórmula de crescimento da receita prevista na LC nº 200/2023.
+
+Entretanto, há uma diferença entre a arrecadação incremental e a receita considerada
+para a atualização do limite. A fórmula do arcabouço depende da receita primária
+pertinente, de sua variação real e do período de apuração aplicável. Por isso, os R$ 32,3
+bilhões a R$ 37,8 bilhões de reforço de arrecadação estimado para 2027 não se
+transformam automaticamente, nem no mesmo exercício, em correspondente aumento
+de autorizações de despesa.
+
+Ademais, parcelas da arrecadação adicional podem estar sujeitas à repartição
+constitucional com estados e municípios, especialmente quando relacionadas a
+impostos partilhados, exigindo a distinção entre arrecadação tributária bruta e receita
+efetivamente disponível para a União.
+
+5. Efeitos sobre os pisos constitucionais de saúde e educação
+
+A análise dos impactos sobre saúde e educação exige separar três questões: a proteção
+jurídica dos pisos, a alteração das bases de cálculo e a disponibilidade efetiva de recursos
+para despesas superiores aos mínimos.
+
+5.1. Saúde: efeitos diretos potenciais e controvérsia constitucional
+
+O art. 198, § 2º, I, da Constituição Federal determina que a União aplique anualmente em
+ações e serviços públicos de saúde, no mínimo, 15% da receita corrente líquida do
+respectivo exercício.
+
+                                                         8
+Portanto, o aumento da receita corrente líquida tende a elevar, automaticamente, a
+obrigação constitucional de financiamento federal da saúde.
+
+Em princípio, a ampliação da arrecadação promovida pelo PLP nº 299/2026 poderá
+aumentar o piso de saúde, desde que os novos ingressos integrem a RCL.
+
+Contudo, o art. 3º do substitutivo altera o art. 14 da LC nº 235/2026, tornando
+incondicionais, até 2030, determinadas restrições à contabilização de receitas para
+cálculo de despesas vinculadas e excluindo também o imposto sobre exportações de
+petróleo bruto da base utilizada para obrigações de programação de despesas indexadas
+à RCL previstas em legislação específica.
+
+A questão é especialmente relevante porque o PLOA para 2027 já considerou a exclusão
+das receitas do Fundo Social vinculadas à comercialização de petróleo e gás natural para
+o cálculo do mínimo constitucional da saúde.
+
+Segundo a Nota Informativa da Conorf/Senado, a metodologia utilizada no PLOA 2027
+produziu os seguintes resultados:
+
+Base de cálculo da saúde em 2027  Valor
+
+RCL sem exclusão das receitas consideradas R$ 1.859,9 bilhões
+
+RCL considerada pelo Executivo    R$ 1.814,4 bilhões
+
+Piso de 15% sem exclusão          R$ 279,0 bilhões
+
+Piso de 15% com exclusão          R$ 272,2 bilhões
+
+Diferença                         R$ 6,8 bilhões
+
+Fonte: Conorf/Senado, Nota Informativa de 13/11/2026, p. 18. Valores aproximados.
+
+A diferença de R$ 6,8 bilhões não representa necessariamente corte de igual valor na
+despesa total com saúde, mas demonstra a dimensão da redução da obrigação mínima
+resultante da metodologia adotada no orçamento.
+
+O problema jurídico é que a Constituição estabelece diretamente a base de cálculo do
+piso da União, sem autorizar expressamente que uma lei complementar retire
+determinadas parcelas da RCL para esse fim.
+
+A exclusão prevista no art. 14 da LC nº 235/2026 refere-se a obrigações de programação
+de despesa previstas em legislação específica, enquanto o piso da saúde decorre do
+próprio art. 198 da Constituição.
+
+Uma interpretação segundo a qual a legislação complementar pode reduzir a base
+constitucional de cálculo por meio da desconsideração seletiva de receitas suscita,
+portanto, relevante dúvida de constitucionalidade.
+
+                          9
+O Conselho Nacional de Saúde, em nota pública de 13 de novembro de 2026, manifestou
+preocupação com essa alteração e com seus possíveis efeitos sobre o financiamento do
+SUS.
+
+A nova exclusão do imposto de exportação de petróleo apresenta o mesmo problema
+interpretativo. Caso se admita sua repercussão sobre o piso constitucional, cada R$ 10
+bilhões de arrecadação desse imposto deixariam de produzir R$ 1,5 bilhão de obrigação
+adicional de gasto em saúde.
+
+Essa consequência não deve ser tratada como juridicamente incontroversa.
+
+Conclui-se, portanto, que o projeto pode produzir efeito direto sobre o cálculo do piso
+da saúde, mas a validade constitucional desse efeito é discutível. O texto não reduz
+formalmente a alíquota de 15%; procura restringir a receita considerada em sua aplicação.
+
+Se prevalecer a interpretação de que a RCL constitucionalmente relevante não pode ser
+artificialmente reduzida por lei complementar, a arrecadação adicional deverá repercutir
+no piso da saúde segundo as regras constitucionais ordinárias.
+
+5.2. Educação: manutenção do piso de 18% da receita de impostos
+
+O art. 212 da Constituição determina que a União aplique anualmente, no mínimo, 18%
+da receita resultante de impostos, compreendida a proveniente de transferências,
+observadas as regras constitucionais pertinentes.
+
+A base de cálculo, portanto, é distinta daquela utilizada para a saúde.
+
+Enquanto o piso da saúde depende da RCL, o piso da educação depende da receita de
+impostos constitucionalmente considerada.
+
+Dessa forma, a alteração promovida pelo art. 3º do substitutivo não reduz diretamente o
+mínimo constitucional da educação, porque a vedação de contabilização de
+determinadas receitas para despesas indexadas à RCL não altera, por si só, a regra do art.
+212.
+
+Ao contrário, o aumento da arrecadação de impostos abrangidos pela base constitucional
+poderá elevar a obrigação mínima de gastos em manutenção e desenvolvimento do
+ensino.
+
+Por exemplo, um acréscimo hipotético de R$ 10 bilhões na receita líquida de impostos
+considerada para o art. 212 resultaria, mantidas as demais condições, em aumento de R$
+1,8 bilhão na despesa mínima constitucional com educação.
+
+Esse efeito não se aplica automaticamente à arrecadação de contribuições sociais, como
+PIS/Cofins e CSLL, pois elas não integram a base de impostos utilizada para o piso
+educacional.
+
+                                                        10
+Também é necessário considerar as transferências constitucionais de receitas e demais
+deduções aplicáveis antes de estimar qualquer incremento efetivo no piso.
+
+Assim, não há redução direta e imediata do piso constitucional da educação, podendo
+ocorrer, em sentido inverso, elevação da obrigação mínima conforme a composição da
+arrecadação adicional.
+
+5.3. A preservação dos pisos não assegura expansão efetiva das políticas
+
+Embora os mínimos constitucionais sejam protegidos, a ampliação das possibilidades de
+contingenciamento e a restrição temporária do teto de despesas podem reduzir o espaço
+para gastos superiores aos pisos.
+
+O resultado pode ser a preservação dos valores mínimos obrigatórios, acompanhada de
+menor crescimento dos investimentos, do custeio administrativo, da expansão da
+capacidade instalada e de programas não integralmente protegidos por obrigações
+constitucionais.
+
+No caso da educação, por exemplo, a preservação do mínimo de 18% não impede que
+despesas discricionárias federais, programas suplementares ou investimentos sofram
+restrições, desde que respeitados os dispositivos constitucionais e legais aplicáveis.
+
+O mesmo ocorre na saúde: a manutenção do piso, mesmo sob determinada metodologia
+de cálculo, não assegura recursos suficientes para a expansão de serviços, incorporação
+de tecnologias, ampliação de equipes ou atendimento de demandas reprimidas.
+
+O risco é agravado quando despesas obrigatórias crescem acima do limite global
+permitido pela LC nº 200/2023.
+
+Nessas circunstâncias, as despesas discricionárias funcionam como variável residual de
+ajuste, podendo sofrer compressão mesmo que o conjunto da arrecadação cresça.
+
+6. Efeitos sobre benefícios previdenciários e assistenciais
+
+O substitutivo não modifica diretamente os critérios constitucionais de concessão,
+cálculo ou reajustamento de aposentadorias e pensões do Regime Geral de Previdência
+Social (RGPS), nem os benefícios assistenciais previstos no art. 203 da Constituição.
+
+As despesas previdenciárias continuam sujeitas às normas constitucionais e legais
+próprias, inclusive quanto à manutenção do valor real dos benefícios, nos termos da
+legislação, e à vinculação dos benefícios substitutivos do rendimento do trabalho ao
+salário-mínimo.
+
+O Benefício de Prestação Continuada (BPC), por sua vez, permanece assegurado às
+pessoas que preencham os requisitos constitucionais e legais, com valor equivalente a
+um salário-mínimo.
+
+                                                        11
+Assim, o PLP nº 299/2026 não autoriza a diminuição dos valores desses benefícios nem o
+contingenciamento de pagamentos devidos aos respectivos titulares.
+
+A mudança também não elimina sua natureza de despesas obrigatórias. O que ocorre é
+um aprofundamento da tensão entre o crescimento dessas despesas e a capacidade de
+expansão das demais despesas primárias.
+
+6.1. Crescimento dos benefícios e compressão das despesas discricionárias
+
+O crescimento da despesa previdenciária depende de diversos fatores, incluindo a
+evolução do número de beneficiários, a estrutura demográfica, a política de valorização
+do salário-mínimo, os índices de reajustamento e as decisões administrativas e judiciais.
+
+Esses fatores não seguem necessariamente os limites de crescimento estabelecidos pela
+LC nº 200/2023.
+
+A Lei nº 15.077, de 27 de dezembro de 2024, alterou, até 2030, a Lei nº 14.663, de 28 de
+agosto de 2023, que fixou a política de valorização do salário-mínimo, vinculou o ganho
+real máximo do salário mínimo aos limites de crescimento das despesas primárias
+previstos no arcabouço fiscal, buscando controlar o aumento das despesas obrigatórias
+indexadas ao mínimo, particularmente aposentadorias, pensões e BPC, ou seja, não
+poderá superar 2,5%.
+
+Esse ponto é especialmente relevante para a análise do PLP nº 299/2026: a proposta prevê
+restringir a 2% o crescimento real das despesas primárias em determinadas
+circunstâncias, mas não altera expressamente o limite de 2,5% aplicável ao ganho real
+do salário-mínimo. Porém, como esse índice de crescimento, a despesa previdenciária e
+assistencial poderá aumentar acima do limite geral das despesas primárias, reduzindo o
+espaço fiscal para as demais despesas: quando os benefícios previdenciários e
+assistenciais crescem acima da taxa permitida para as despesas primárias totais, o
+espaço disponível para outras despesas diminui.
+
+Assim alteração do limite para aumento de despesas primárias acima do IPCA de 2,5%
+para 2,0% poderá acabar pressionando a política de correção do salário-mínimo, com
+impactos na previdência e assistência social.
+
+O PLP não resolve estruturalmente esse problema. Ao contrário, ao permitir que o
+crescimento real do limite seja temporariamente restringido a 2%, poderá agravar a
+competição pelo espaço orçamentário entre despesas obrigatórias e discricionárias.
+
+Entretanto, o texto aprovado suprimiu dispositivo presente no substitutivo anterior que
+exigia a apresentação, na LDO, de projeções plurianuais das principais despesas
+obrigatórias e de um plano de convergência de seu crescimento ao limite estabelecido
+pelo arcabouço fiscal.
+
+A exclusão desse dispositivo é significativa.
+
+                                                        12
+Na versão de 11 de novembro, o plano de convergência compreenderia despesas
+decorrentes de obrigações constitucionais, incluindo pessoal, precatórios, benefícios
+previdenciários e assistenciais, seguro-desemprego e abono salarial.
+
+Embora tal exigência não determinasse diretamente a redução dos benefícios, poderia
+criar fundamento para futuras alterações restritivas em sua legislação.
+
+Sua supressão afasta essa obrigação adicional de planejamento de convergência,
+sem eliminar a pressão fiscal decorrente do crescimento das despesas obrigatórias.
+
+6.2. Limitação da compensação financeira entre regimes previdenciários
+
+A alteração previdenciária mais concreta encontra-se no art. 6º do texto aprovado, que
+acrescenta parágrafo único ao art. 8º-C da Lei nº 9.796/1999.
+
+O dispositivo fixa, entre 2027 e 2030, limite anual inicial de R$ 3 bilhões para a
+compensação financeira entre o RGPS e os regimes próprios de previdência social (RPPS),
+atualizado segundo o crescimento anual do limite de despesas da LC nº 200/2023.
+
+Essa compensação financeira decorre da contagem recíproca do tempo de contribuição
+entre regimes, assegurada constitucionalmente.
+
+O trabalhador que contribuiu para o RGPS e posteriormente se aposentou por um regime
+próprio tem direito à consideração do período contributivo, cabendo ao regime de origem
+compensar financeiramente o regime responsável pelo pagamento do benefício, segundo
+a legislação.
+
+O novo limite não altera a aposentadoria paga ao beneficiário, mas pode restringir os
+recursos transferidos entre regimes previdenciários.
+
+O impacto será especialmente relevante para estados e municípios que possuem créditos
+de compensação previdenciária perante o RGPS.
+
+A limitação poderá produzir melhora do resultado primário federal no curto prazo, mas
+também poderá transferir pressões financeiras para os regimes próprios subnacionais.
+
+O texto não esclarece suficientemente o tratamento jurídico dos valores de compensação
+que excederem o limite anual. Essa lacuna merece atenção, porque a contenção
+orçamentária não necessariamente extingue obrigações constituídas de acordo com a
+legislação previdenciária e com a garantia constitucional da contagem recíproca.
+
+O dispositivo está entre os destaques pendentes de votação no Senado.
+
+6.3. Bolsa Família, BPC e demais benefícios assistenciais
+
+A nova redação do art. 6º-D resguarda expressamente as obrigações constitucionais,
+alcançando benefícios como o BPC.
+
+                                                        13
+No caso do Bolsa Família, a análise demanda distinção entre benefícios constitucionais,
+obrigações legais e regras específicas de programação orçamentária.
+
+O programa possui disciplina legal própria, inclusive quanto aos critérios de concessão e
+aos valores aplicáveis. O PLP nº 299/2026 não altera diretamente esses parâmetros.
+
+Contudo, nem toda despesa legalmente prevista recebe automaticamente a mesma
+proteção constitucional conferida ao BPC.
+
+Por isso, a aplicação do novo regime de contingenciamento às diferentes despesas
+assistenciais deverá observar a natureza jurídica de cada obrigação e as ressalvas
+estabelecidas na legislação e na LDO.
+
+A interpretação segundo a qual qualquer programa assistencial estaria integralmente
+protegido de contingenciamento seria excessivamente abrangente. Igualmente incorreta
+seria a conclusão de que o projeto autoriza cortes automáticos nos benefícios pagos aos
+cidadãos.
+
+O efeito provável é predominantemente indireto: maior restrição à expansão de programas
+e à execução de despesas complementares, sem alteração imediata dos direitos
+legalmente constituídos.
+
+7. Regulamentação do teto remuneratório do serviço público e economia estimada
+
+Uma das disposições de maior relevância institucional do PLP nº 299/2026 é o art. 10, que
+estabelece prazo de 120 dias, contado da publicação da eventual lei complementar, para
+que o Congresso Nacional aprecie projeto destinado a disciplinar o § 11 do art. 37 da
+Constituição Federal.
+
+A Constituição estabelece, no art. 37, XI, limite máximo de remuneração e subsídios dos
+agentes públicos, tendo como referência, na União, o subsídio dos ministros do Supremo
+Tribunal Federal.
+
+O teto remuneratório federal atualmente corresponde a R$ 46.366,19 mensais.
+
+O § 11 do art. 37, na redação dada pela Emenda Constitucional nº 135/2024, determina
+que não sejam computadas para efeito do teto apenas as parcelas indenizatórias
+expressamente previstas em lei de caráter nacional, aprovada pelo Congresso Nacional e
+aplicável a todos os Poderes e órgãos constitucionalmente autônomos.
+
+Trata-se de dispositivo que foi integralmente ignorado pelo Supremo Tribunal Federal, ao
+definir em março de 2026, que magistrados e membros do Ministério Público passariam a
+fazer jus a até 70% acima do teto remuneratório, inclusive com o pagamento de “parcela
+de valorização da antiguidade na carreira” (quinquênios), direito sem previsão
+constitucional ou legal e incompatível com o regime de subsídio.
+
+                                                        14
+O objetivo é enfrentar a multiplicação de pagamentos classificados como indenizatórios
+que, embora formalmente excluídos do teto, podem representar acréscimos
+remuneratórios regulares e substanciais.
+
+A regulamentação deverá distinguir as indenizações genuínas, destinadas a ressarcir
+despesas efetivamente relacionadas ao exercício da função, das parcelas que,
+independentemente da denominação adotada, possuam natureza remuneratória.
+
+O prazo fixado comporta questionamentos quanto a qual proposição legislativa será
+aprovada; o rol de parcelas a serem sujeitas ao teto ou dele excluídas; a necessidade de
+um amplo acordo sobre o conteúdo da matéria; e sua convergência com as posições
+adotadas pelo STF. Todos esses fatores poderão influenciar ou até mesmo inviabilizar o
+resultado esperado pelo Executivo.
+
+7.1. Estimativa de economia de R$ 3 bilhões
+
+Em audiência realizada na Comissão Mista de Orçamento em 11 de novembro de 2026, o
+ministro do Planejamento e Orçamento, Bruno Moretti, estimou que a regulamentação
+dos supersalários poderá produzir economia de aproximadamente R$ 3 bilhões.
+
+O ministro ressalvou que o resultado dependerá do conteúdo da legislação a ser aprovada,
+utilizando como referência projetos em discussão no Congresso Nacional.
+
+É indispensável registrar que o PLP não contém uma estimativa discriminada da economia
+a ser obtida por Poder ou órgão, tampouco demonstra sua distribuição entre União,
+estados e municípios.
+
+A estimativa governamental, portanto, não permite concluir quanto será efetivamente
+economizado na folha do Poder Executivo federal ou nas estruturas do Judiciário,
+Legislativo, Ministério Público e Defensoria Pública.
+
+Também não é possível considerar, automaticamente, os R$ 3 bilhões como economia
+líquida adicional incorporada à estimativa de R$ 45,1 bilhões a R$ 56,1 bilhões para 2027.
+
+A regulamentação dependerá de aprovação legislativa posterior, e seus efeitos financeiros
+serão condicionados à definição das parcelas indenizatórias admissíveis, à
+implementação administrativa da nova legislação e à solução de possíveis controvérsias
+judiciais.
+
+Além disso, eventual economia bruta não se confunde com redução líquida das despesas
+primárias, especialmente quando os recursos economizados forem destinados a novas
+despesas de pessoal.
+
+7.2. Destinação das economias no Poder Executivo federal
+
+O § 1º do art. 10 determina que a LDO contenha demonstrativo da redução dos valores
+decorrentes da regulamentação do teto remuneratório.
+
+                                                        15
+No âmbito do Poder Executivo federal, o demonstrativo deverá discriminar o montante
+destinado à redução do limite individualizado de despesas primárias e aquele destinado
+a investimentos ou ao financiamento de atividades finalísticas do Sistema Único de
+Segurança Pública (Susp) e do Sistema Nacional de Atendimento Socioeducativo (Sinase).
+
+A primeira destinação representa efetiva redução do espaço autorizado para despesas
+primárias do Executivo.
+
+A segunda representa realocação dos recursos economizados para finalidades
+previamente definidas, não implicando necessariamente redução líquida da despesa
+pública.
+
+O texto não estabelece os percentuais que deverão ser aplicados em cada finalidade,
+deixando essa definição para a programação orçamentária e para a demonstração exigida
+na LDO.
+
+Assim, a eventual economia de R$ 3 bilhões não significará obrigatoriamente melhora
+equivalente do resultado primário. Tudo dependerá da parcela efetivamente retirada do
+limite de despesas e daquela reaplicada em outras atividades.
+
+7.3. Destinação nos Poderes e órgãos autônomos
+
+O substitutivo aprovado introduziu mudança importante em comparação com a versão
+apresentada pelo relator em 11 de novembro.
+
+Na versão anterior, admitia-se o remanejamento parcial de limites e recursos
+economizados em Poderes ou órgãos autônomos para o limite de despesas do Executivo,
+visando ao financiamento de atividades de segurança pública e atendimento
+socioeducativo.
+
+O texto aprovado suprimiu essa possibilidade.
+
+O § 2º do art. 10 passou a vedar o remanejamento de limites ou recursos dos Poderes e
+órgãos autônomos para aquelas finalidades, invocando a autonomia administrativa e
+orçamentária prevista nos arts. 99, 127, § 2º, e 134, § 2º, da Constituição.
+
+O § 3º, por sua vez, estabelece que a economia apurada nos Poderes e órgãos autônomos
+será destinada à reestruturação e recomposição dos quadros do respectivo Poder ou
+órgão, vedadas a redução e o remanejamento de suas dotações e limites individualizados
+de despesas primárias, inclusive com repercussão nas bases de cálculo dos exercícios
+subsequentes.
+
+O resultado dessa alteração pode ser sintetizado no seguinte quadro:
+
+Poder ou órgão  Destinação da economia com  Efeito sobre o teto
+                supersalários
+
+                16
+Executivo federal    Redução do limite ou aplicação em  Pode reduzir o limite do
+                     investimentos, Susp e Sinase       Executivo
+
+Legislativo federal  Reestruturação e recomposição dos  Limites preservados
+                     próprios quadros
+
+Judiciário federal   Reestruturação e recomposição dos  Limites preservados
+                     próprios quadros
+
+Ministério Público Reestruturação e recomposição dos    Limites preservados
+da União             próprios quadros
+
+Defensoria Pública Reestruturação e recomposição dos    Limites preservados
+da União             próprios quadros
+
+Fonte: art. 10, §§ 1º a 3º, da Emenda nº 75, conforme a Nota Informativa Conorf/Senado, pp. 19–
+                                                            20.
+
+A proteção estabelecida para os demais Poderes e órgãos autônomos alcança não apenas
+as dotações do exercício corrente, mas também as bases de cálculo dos limites de
+despesas dos exercícios futuros.
+
+Essa distinção produz consequência importante: a economia decorrente da eliminação
+de parcelas remuneratórias irregulares não produzirá necessariamente redução
+permanente das despesas públicas desses órgãos.
+
+Os recursos poderão financiar contratações, recomposição de quadros, reestruturação
+administrativa ou outras despesas de pessoal admitidas pela legislação aplicável.
+
+Deve-se observar, contudo, que o dispositivo não autoriza automaticamente reajustes
+salariais nem afasta as exigências constitucionais de lei específica, iniciativa competente,
+dotação orçamentária e observância dos limites fiscais.
+
+7.4. Economia bruta e economia líquida
+
+As economias obtidas com a regulamentação dos supersalários, nos Poderes e órgãos
+autônomos, não serão necessariamente convertidas em ajuste fiscal.
+
+A diferença entre economia bruta e líquida pode ser ilustrada por uma hipótese
+meramente demonstrativa:
+
+Se determinado órgão reduzir em R$ 500 milhões anuais suas despesas com parcelas
+remuneratórias que ultrapassam o teto constitucional, terá obtido economia bruta nesse
+valor.
+
+Entretanto, se a totalidade dos R$ 500 milhões for posteriormente destinada à
+recomposição de pessoal ou à reestruturação de carreiras, a economia líquida poderá ser
+nula, embora a composição da despesa se altere.
+
+Caso apenas R$ 300 milhões sejam reaplicados, a redução líquida corresponderá a R$ 200
+milhões, desde que não existam outros efeitos financeiros.
+
+                                        17
+Essa distinção é fundamental para avaliar o real impacto da regulamentação dos
+supersalários sobre o resultado primário e sobre o crescimento das despesas públicas.
+
+7.5. Problemas jurídicos e institucionais da destinação obrigatória
+
+A proposta possui mérito ao procurar dar efetividade ao teto constitucional e conferir
+tratamento uniforme às parcelas indenizatórias.
+
+Entretanto, a vinculação integral das economias dos demais Poderes e órgãos autônomos
+à recomposição dos respectivos quadros suscita três questões.
+
+A primeira diz respeito à efetividade fiscal da medida. Se toda a economia puder ser
+reaplicada em novas despesas, a regulamentação deixará de produzir ajuste fiscal líquido
+nesses órgãos.
+
+A segunda refere-se à autonomia orçamentária. A preservação dos limites
+individualizados pode ser justificada pela necessidade de respeitar a autonomia
+constitucional do Judiciário, Ministério Público e Defensoria Pública. Contudo, essa
+autonomia não implica necessariamente direito de conservar indefinidamente toda
+economia orçamentária, independentemente de decisão legislativa sobre os limites
+globais de despesas públicas.
+
+A terceira questão envolve a própria finalidade do teto constitucional. O objetivo do art.
+37, XI e § 11, é impedir remunerações incompatíveis com os limites constitucionais, e não
+criar automaticamente uma nova fonte de financiamento para o aumento de outras
+despesas de pessoal.
+
+A destinação dos recursos economizados pode ser legítima, especialmente quando
+destinada a corrigir insuficiências de pessoal e fortalecer atividades institucionais. Mas a
+legislação deveria assegurar transparência quanto ao montante efetivamente
+economizado, à parcela reaplicada e à eventual redução líquida de despesas.
+
+Ademais, essa medida teria efeito fiscal limitado: apenas no primeiro ano de sua
+aplicação se poderia falar em “economia de despesas”; a partir do segundo ano, as
+dotações orçamentárias já estariam integralmente ajustadas à despesa resultante da
+própria aplicação do “teto” remuneratório.
+
+Também deve ser corrigida a remissão constante do § 2º do art. 10, que menciona o inciso
+II do parágrafo único, embora a matéria esteja disciplinada no inciso II do § 1º.
+
+8. Outros efeitos fiscais relevantes
+
+Além dos efeitos centrais já examinados, o substitutivo incorpora medidas que modificam
+o perfil temporal e a composição das despesas federais.
+
+Repasses relativos à Lei Kandir. O art. 2º reduz temporariamente, de 2027 a 2030, a
+parcela ordinária anual a ser entregue aos estados de R$ 4 bilhões para R$ 1 bilhão, com
+
+                                                        18
+pagamento posterior das diferenças até 2037. A alteração não elimina a obrigação total da
+União, mas adia sua execução e transfere pressões fiscais para estados e municípios.
+Considerando as parcelas de devolução que começam no exercício seguinte, a economia
+efetiva de caixa não permanece em R$ 3 bilhões anuais durante todo o período. O
+dispositivo está sujeito a destaque no Senado.
+
+Compensação previdenciária e Proex. Os limites de despesas com compensação
+financeira entre regimes previdenciários e equalização do financiamento às exportações
+poderão produzir contenção adicional, mas o efeito fiscal depende dos montantes que
+seriam efetivamente executados na ausência dessas limitações.
+
+Fundo Nacional de Desenvolvimento Científico e Tecnológico. A possibilidade de
+utilizar recursos não reembolsáveis do FNDCT para bolsas de estudo e pesquisa poderá
+aliviar outras dotações orçamentárias. Em contrapartida, poderá deslocar recursos
+anteriormente destinados a projetos de pesquisa e desenvolvimento tecnológico. Não
+representa necessariamente economia líquida, mas mudança nas fontes de
+financiamento.
+
+Subvenção ao diesel. O art. 13 permite deduzir da apuração da meta fiscal de 2026 até
+R$ 10,5 bilhões em despesas extraordinárias com subvenção ao óleo diesel. A medida não
+reduz a despesa realizada nem o efeito sobre a dívida pública; altera apenas o tratamento
+dessas despesas para fins de verificação da meta de resultado primário.
+
+Superávits financeiros de fundos públicos. A supressão do dispositivo que autorizava a
+desvinculação de até 40% dos saldos de fontes legalmente vinculadas preserva, no texto-
+base, a destinação original dos recursos. Esse resultado é relevante para os fundos
+destinados a atividades específicas, inclusive da administração tributária. Eventual
+reinclusão da desvinculação dependerá da votação da Emenda nº 40.
+
+9. Avaliação geral dos impactos fiscais e sociais
+
+O PLP nº 299/2026 procura responder à dificuldade crescente de conciliar três elementos:
+o crescimento relativamente rígido das despesas obrigatórias, a expansão limitada das
+despesas primárias permitida pelo arcabouço fiscal e a necessidade de melhorar o
+resultado primário para estabilizar a dívida pública.
+
+A estratégia escolhida combina ampliação das receitas com instrumentos mais restritivos
+de execução das despesas.
+
+Sob o aspecto fiscal, a redução de benefícios tributários pode ser considerada uma
+medida de maior qualidade estrutural do que a simples compressão das despesas
+discricionárias, especialmente quando elimina incentivos pouco eficientes ou que
+produzem benefícios concentrados sem contrapartidas econômicas e sociais adequadas.
+
+                                                        19
+Já a limitação da compensação tributária apresenta natureza distinta, pois pode
+representar deslocamento temporal da arrecadação e gerar disputas administrativas e
+judiciais caso não preserve adequadamente os direitos creditórios dos contribuintes.
+
+Do lado das despesas, o projeto concentra seus principais instrumentos sobre o
+contingenciamento e a limitação temporária de crescimento, sem modificar diretamente
+as maiores obrigações constitucionais de gasto.
+
+Isso significa que a melhora do resultado primário poderá ser obtida à custa de menor
+execução de despesas discricionárias, particularmente investimentos e custeio de
+serviços, caso as despesas obrigatórias continuem crescendo acima do espaço permitido
+pelo limite fiscal.
+
+O mecanismo de autorização de investimentos no exercício seguinte oferece uma
+compensação parcial, mas condicionada à obtenção dos resultados fiscais previstos, à
+abertura de créditos adicionais e ao cumprimento da meta do exercício de realização da
+despesa.
+
+Quanto às políticas sociais, o projeto não elimina direitos previdenciários ou assistenciais,
+mas a preservação formal desses direitos não assegura, por si só, expansão suficiente da
+capacidade estatal de prestar serviços.
+
+A controvérsia mais relevante nesse campo diz respeito ao financiamento da saúde.
+
+A adoção de uma base de cálculo reduzida para o mínimo constitucional, excluindo
+determinadas receitas petrolíferas, poderá conter a expansão das despesas federais com
+o SUS. A legalidade dessa interpretação deve ser examinada à luz da redação expressa do
+art. 198 da Constituição e da definição de receita corrente líquida estabelecida na Lei de
+Responsabilidade Fiscal.
+
+Finalmente, a regulamentação do teto remuneratório constitui medida institucionalmente
+relevante para reduzir distorções e privilégios no serviço público. Entretanto, seus efeitos
+fiscais serão limitados se as economias forem integralmente reaplicadas em novas
+despesas, sem transparência e sem critérios objetivos de utilização.
+
+10. Conclusões
+
+A análise do substitutivo aprovado permite concluir que o PLP nº 299/2026 representa um
+reforço significativo dos mecanismos de gestão fiscal da União, mas seus efeitos sobre a
+despesa pública, sobre as políticas sociais e sobre o equilíbrio federativo exigem atenção.
+
+Em termos de resultado primário, o parecer estima melhora entre R$ 45,1 bilhões e R$ 56,1
+bilhões em 2027. Essa estimativa deve ser revisada em razão das modificações
+introduzidas no texto-base e dos destaques pendentes.
+
+                                                        20
+Quanto ao regime de despesas primárias, o projeto não substitui o arcabouço fiscal
+vigente, mas introduz mecanismos de contenção temporária e permite que o Executivo
+restrinja a execução orçamentária mesmo quando a meta fiscal já esteja sendo cumprida
+dentro da banda de tolerância.
+
+No financiamento de saúde e educação, os efeitos são distintos. O piso da educação
+permanece juridicamente inalterado, podendo crescer com a arrecadação adicional de
+impostos. O piso da saúde poderá ser reduzido em relação ao cálculo baseado na RCL
+integral, caso prevaleça a metodologia de exclusão de receitas petrolíferas adotada no
+PLOA 2027. Essa questão apresenta relevante controvérsia constitucional e merece
+esclarecimento legislativo expresso.
+
+Quanto à Previdência e à assistência social, o projeto não determina redução direta dos
+benefícios pagos aos cidadãos, mas amplia as restrições fiscais sobre despesas
+complementares e limita a compensação entre regimes previdenciários, com potenciais
+efeitos sobre as finanças estaduais e municipais.
+
+A economia com a regulamentação dos supersalários foi preliminarmente estimada pelo
+governo em cerca de R$ 3 bilhões, sem demonstrativo detalhado que permita identificar
+sua distribuição entre Poderes e órgãos ou sua repercussão efetiva no resultado primário.
+
+No Poder Executivo, parte da economia poderá reduzir o limite de despesas e parte poderá
+financiar investimentos, segurança pública e atendimento socioeducativo. Nos demais
+Poderes e órgãos autônomos, a economia permanecerá vinculada à reestruturação e
+recomposição de seus próprios quadros, preservados os limites orçamentários.
+
+À vista dessas conclusões, a apreciação do PLP nº 299/2026 pela Câmara dos Deputados
+exige avaliação técnica adicional, especialmente quanto à memória de cálculo das
+receitas estimadas, ao caráter permanente ou transitório de seus efeitos fiscais, à
+proteção constitucional do piso da saúde, às consequências federativas da limitação de
+transferências e compensações e ao impacto líquido da regulamentação do teto
+remuneratório.
+
+Seria particularmente recomendável exigir que a regulamentação dos supersalários seja
+acompanhada de demonstrativo anual individualizado por Poder e órgão autônomo,
+identificando a despesa anterior, a economia bruta, a destinação dos valores e a
+economia líquida efetivamente obtida.
+
+Em síntese, o substitutivo poderá contribuir para melhorar o resultado fiscal e conter
+o crescimento da dívida pública, mas essa melhora não deverá ser confundida com
+uma expansão equivalente da capacidade de financiamento das políticas públicas.
+
+O desafio consiste em assegurar que a consolidação fiscal não seja obtida mediante
+compressão excessiva de investimentos, enfraquecimento do financiamento
+constitucional da saúde ou transferência de encargos para estados e municípios, e que a
+
+                                                        21
+eliminação de privilégios remuneratórios produza resultados transparentes e socialmente
+justificáveis.
+Nesse sentido, as críticas que têm sido formuladas por setores da sociedade e partidos
+de esquerda, merecem ser relativizadas, embora as suas preocupações sejam honestas.
+O diabo não é tão feio quanto tem sido descrito...
+Porém, dados os aspectos analisados nesta Nota, não será inusitado que, no curto prazo,
+novas medidas de ajuste fiscal sejam apresentadas pelos Ministérios da área econômica,
+o que, sem dúvida, agravará os conflitos em torno da matéria no âmbito dos partidos de
+esquerda e dos movimentos sociais que atuaram decisivamente para a vitória do
+Presidente Lula no pleito de 25 de outubro de 2026.
+
+Brasília, 16 de novembro de 2026
+
+Referências
+Nota Informativa da Conorf/Senado de 13 de novembro de 2026
+Parecer do Relator ao PLP nº 299/2026 (Senado Federal)
+Conselho Nacional de Saúde — Nota pública sobre o piso constitucional da saúde.
+Valor Econômico e Folha de S. Paulo de 16 de novembro de 2026.
+
+                                      LUIZ ALBERTO DOS SANTOS
+                            Advogado – OAB RS 26.485 e OAB DF 49.777
+
+                                                   Consultor
+          Sócio da Diálogo Institucional Assessoria e Análise de Políticas Públicas
+
+                                                        22
+

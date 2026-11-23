@@ -1,0 +1,15 @@
+---
+description: Fundamentos do projeto ajuste-fiscal-2026. Número só sai de fonte com hash e por script; o que o dado não diz vai no topo; travas do assunto.
+alwaysApply: true
+---
+
+# Fundamentos
+
+1. **Nenhum número digitado.** Todo valor sai de `dados/textos/` ou `dados/capturas/` por expressão regular em `ferramentas/derivar.py`, com o trecho guardado; se o trecho some, o script para.
+2. **Fonte primária primeiro** (Senado, Câmara, IFI, Tesouro); imprensa é segunda fonte ou contexto, e só entra o texto (nunca o HTML).
+3. **Validação por outro caminho** (`ferramentas/validacao_independente.py`) passando 100% antes de publicar.
+4. **O que o projeto não consegue dizer vai no topo do relatório.**
+5. **Travas do assunto:** fato com 2 fontes; sem "mentiu", sem "fraude", sem "roubo"; sem julgar intenção; sem recomendação de voto. A palavra de quem acusa entra entre aspas, com o nome.
+6. **O dado manda:** se a conta contrariar a suspeita, o relatório diz isso com a mesma força.
+7. **Rodadas, sem pré-registro:** cada mudança em `docs/RODADAS.md`; commit e push a cada rodada.
+8. Texto em português, sem travessão.

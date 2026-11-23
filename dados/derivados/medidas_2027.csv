@@ -1,0 +1,6 @@
+medida,nome,natureza,minimo,maximo,fonte,trecho
+contingenciamento,Bloqueio de despesas para buscar o centro da meta (art. 6º-C a 6º-E),gasto contido,12.8,18.3,senado-parecer-221,"contenção de despesas em cerca de R$ 12,8 bilhões a R$ 18,3 bilh"
+compensacao,Limite ao uso de créditos tributários para pagar outros tributos (art. 6º-F),receita antecipada,12.8,18.3,senado-parecer-221,"compensação entre débitos e créditos dos contribuintes de tributos (aumento da arrecadação entre R$ 12,8 bilhões e R$ 18,3 bilh"
+beneficios,"Corte linear de benefícios fiscais, de 10% para 20% (art. 4º)",imposto a mais,15.0,15.0,senado-parecer-221,"redução do gasto tributário em 10% (aumento da arrecadação de R$ 15,0 bilh"
+reidi,Teto para o benefício do Reidi (art. 9º),imposto a mais,4.5,4.5,senado-parecer-221,"Demonstrativo de Gastos Tributários - DGT de 2026, corrigido pelo IPCA (aumento da arrecadação de R$ 4,5 bilh"
+total_declarado,Total declarado pelo parecer,total,45.1,56.1,senado-parecer-221,"melhora o resultado primário entre R$ 45,1 bilhões e 56,1 bilh"

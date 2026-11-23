@@ -1,0 +1,46 @@
+{
+ "dados": {
+  "id": 2655570,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570",
+  "siglaTipo": "PLP",
+  "codTipo": 140,
+  "numero": 299,
+  "ano": 2026,
+  "ementa": "Altera a Lei Complementar nº?200, de 30 de agosto de 2023, a Lei Complementar nº?176, de 29 de dezembro de 2020, a Lei Complementar nº?235, de 27 de agosto de 2026, a Lei Complementar nº?224, de 26 de dezembro de 2025, a Lei nº?11.540, de 12 de novembro de 2007, e a Lei nº?9.796, de 5 de maio de 1999, para conferir ao Poder Executivo federal novos instrumentos de gestão, com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao desenvolvimento socioeconômico; e dá outras providências.",
+  "dataApresentacao": "2026-11-19T13:11",
+  "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+  "statusProposicao": {
+   "dataHora": "2026-11-19T18:47",
+   "sequencia": 9,
+   "siglaOrgao": "MESA",
+   "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/4",
+   "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/204486",
+   "regime": ".",
+   "descricaoTramitacao": "Apresentação de Requerimento",
+   "codTipoTramitacao": "194",
+   "descricaoSituacao": "Aguardando Despacho do Presidente da Câmara dos Deputados (Chancela)",
+   "codSituacao": 1201,
+   "despacho": "Apresentação do REQ n. 4504/2026 (Requerimento de Urgência (Art. 155 do RICD)), pelos Deputado Paulo Pimenta (PT/RS -Fdr PT-PCdoB-PV) e outros, que \"Requer, nos termos do artigo 155 do Regimento Interno, tramitação sob o regime urgência do Projeto de Lei Complementar nº 299, de 2026\".",
+   "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3199669",
+   "ambito": "Regimental",
+   "apreciacao": "Indefinida"
+  },
+  "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570/autores",
+  "descricaoTipo": "Projeto de Lei Complementar",
+  "ementaDetalhada": null,
+  "keywords": null,
+  "uriPropPrincipal": null,
+  "uriPropAnterior": null,
+  "uriPropPosterior": null,
+  "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3199234",
+  "urnFinal": null,
+  "texto": null,
+  "justificativa": null
+ },
+ "links": [
+  {
+   "rel": "self",
+   "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2655570"
+  }
+ ]
+}
